@@ -1,0 +1,881 @@
+,0,1,2,3,4,5,6,Stock
+0,Profit & Loss account of Astral Limited (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,astrallimited
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,astrallimited
+2,INCOME,,,,,,,astrallimited
+3,Revenue From Operations [Gross],5145.10,4383.90,3169.90,2571.40,2501.26,,astrallimited
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,astrallimited
+5,Revenue From Operations [Net],5145.10,4383.90,3169.90,2571.40,2501.26,,astrallimited
+6,Total Operating Revenues,5158.50,4394.00,3176.30,2577.90,2507.29,,astrallimited
+7,Other Income,26.70,34.90,25.10,12.10,15.44,,astrallimited
+8,Total Revenue,5185.20,4428.90,3201.40,2590.00,2522.73,,astrallimited
+9,EXPENSES,,,,,,,astrallimited
+10,Cost Of Materials Consumed,3362.20,3030.00,1898.10,1642.90,1650.03,,astrallimited
+11,Purchase Of Stock-In Trade,60.40,31.40,21.60,22.70,39.73,,astrallimited
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,astrallimited
+13,Changes In Inventories Of FGWIP And Stock In Trade,12.10,-133.40,49.20,-69.90,-42.07,,astrallimited
+14,Employee Benefit Expenses,319.30,245.30,191.00,175.20,139.13,,astrallimited
+15,Finance Costs,40.00,12.90,13.10,39.40,31.96,,astrallimited
+16,Depreciation And Amortisation Expenses,178.10,126.90,116.50,107.90,81.43,,astrallimited
+17,Other Expenses,594.60,465.40,371.90,364.10,335.54,,astrallimited
+18,Total Expenses,4566.70,3778.50,2661.40,2282.30,2235.75,,astrallimited
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",618.50,650.40,540.00,307.70,286.99,,astrallimited
+20,Exceptional Items,-1.80,0.00,0.00,0.00,0.00,,astrallimited
+21,Profit/Loss Before Tax,616.70,650.40,540.00,307.70,286.99,,astrallimited
+22,Tax Expenses-Continued Operations,,,,,,,astrallimited
+23,Current Tax,165.90,158.30,136.60,70.50,74.42,,astrallimited
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,astrallimited
+25,Deferred Tax,-10.20,-0.20,-11.80,-14.00,11.66,,astrallimited
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,astrallimited
+27,Total Tax Expenses,155.70,158.10,124.80,56.50,86.08,,astrallimited
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,461.00,492.30,415.20,251.20,200.91,,astrallimited
+29,Profit/Loss From Continuing Operations,461.00,492.30,415.20,251.20,200.91,,astrallimited
+30,Profit/Loss For The Period,474.00,492.30,415.20,251.20,200.91,,astrallimited
+31,Minority Interest,-15.90,-6.60,-3.80,-1.70,-1.53,,astrallimited
+32,Consolidated Profit/Loss After MI And Associates,456.60,483.80,404.40,247.90,195.81,,astrallimited
+33,OTHER ADDITIONAL INFORMATION,,,,,,,astrallimited
+34,EARNINGS PER SHARE,,,,,,,astrallimited
+35,Basic EPS (Rs.),17.00,24.00,20.00,16.00,16.00,,astrallimited
+36,Diluted EPS (Rs.),17.00,24.00,20.00,16.00,16.00,,astrallimited
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,astrallimited
+38,Equity Share Dividend,60.30,45.20,15.10,24.00,9.39,,astrallimited
+39,Tax On Dividend,0.00,0.00,0.00,0.00,0.00,,astrallimited
+0,Profit & Loss account of Aarti Industries (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,aartiindustries
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,aartiindustries
+2,INCOME,,,,,,,aartiindustries
+3,Revenue From Operations [Gross],7156.20,7017.08,4822.40,4539.63,4659.49,,aartiindustries
+4,Less: Excise/Sevice Tax/Other Levies,664.04,919.35,517.18,434.38,0.00,,aartiindustries
+5,Revenue From Operations [Net],6492.16,6097.73,4305.22,4105.25,4659.49,,aartiindustries
+6,Total Operating Revenues,6618.58,6999.96,4506.10,4186.31,4705.51,,aartiindustries
+7,Other Income,0.86,0.80,0.70,8.84,2.10,,aartiindustries
+8,Total Revenue,6619.44,7000.76,4506.80,4195.15,4707.61,,aartiindustries
+9,EXPENSES,,,,,,,aartiindustries
+10,Cost Of Materials Consumed,3462.03,3268.59,1937.56,1780.92,2570.51,,aartiindustries
+11,Purchase Of Stock-In Trade,313.94,286.51,244.24,274.65,183.47,,aartiindustries
+12,Operating And Direct Expenses,852.95,900.30,734.39,612.91,544.88,,aartiindustries
+13,Changes In Inventories Of FGWIP And Stock In Trade,65.70,-261.28,-53.25,0.75,-59.40,,aartiindustries
+14,Employee Benefit Expenses,385.33,442.08,371.38,305.22,242.82,,aartiindustries
+15,Finance Costs,168.28,114.29,86.37,124.78,182.54,,aartiindustries
+16,Depreciation And Amortisation Expenses,310.45,288.52,231.31,185.21,162.68,,aartiindustries
+17,Other Expenses,449.66,434.95,290.25,234.53,258.14,,aartiindustries
+18,Total Expenses,6008.34,5473.96,3842.25,3518.97,4085.64,,aartiindustries
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",611.10,1526.80,664.55,676.18,621.97,,aartiindustries
+20,Exceptional Items,0.00,0.00,0.00,0.00,0.00,,aartiindustries
+21,Profit/Loss Before Tax,611.10,1526.80,664.55,676.18,621.97,,aartiindustries
+22,Tax Expenses-Continued Operations,,,,,,,aartiindustries
+23,Current Tax,107.35,268.12,116.03,118.13,136.65,,aartiindustries
+24,Less: MAT Credit Entitlement,40.92,75.88,9.80,7.09,38.79,,aartiindustries
+25,Deferred Tax,15.96,27.13,23.10,18.00,21.99,,aartiindustries
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,aartiindustries
+27,Total Tax Expenses,65.87,219.38,129.33,129.42,117.80,,aartiindustries
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,545.23,1307.42,535.22,546.76,504.17,,aartiindustries
+29,Profit/Loss From Continuing Operations,545.23,1307.42,535.22,546.76,504.17,,aartiindustries
+30,Profit/Loss For The Period,545.23,1307.42,535.22,546.76,504.17,,aartiindustries
+31,Minority Interest,0.00,-0.23,-11.75,-10.68,-12.44,,aartiindustries
+32,Consolidated Profit/Loss After MI And Associates,545.23,1307.19,523.47,536.08,491.73,,aartiindustries
+33,OTHER ADDITIONAL INFORMATION,,,,,,,aartiindustries
+34,EARNINGS PER SHARE,,,,,,,aartiindustries
+35,Basic EPS (Rs.),15.00,36.00,30.00,31.00,60.00,,aartiindustries
+36,Diluted EPS (Rs.),15.00,36.00,30.00,31.00,60.00,,aartiindustries
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,aartiindustries
+38,Equity Share Dividend,90.63,126.88,46.65,108.24,47.38,,aartiindustries
+39,Tax On Dividend,0.00,0.00,0.00,21.87,9.23,,aartiindustries
+0,Profit & Loss account of Balrampur Chini Mills (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,balrampurchinimills
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,balrampurchinimills
+2,INCOME,,,,,,,balrampurchinimills
+3,Revenue From Operations [Gross],4665.86,4773.26,4672.51,4462.59,4276.23,,balrampurchinimills
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,balrampurchinimills
+5,Revenue From Operations [Net],4665.86,4773.26,4672.51,4462.59,4276.23,,balrampurchinimills
+6,Total Operating Revenues,4665.86,4846.03,4811.66,4741.29,4285.78,,balrampurchinimills
+7,Other Income,62.79,33.02,26.92,43.87,42.75,,balrampurchinimills
+8,Total Revenue,4728.65,4879.04,4838.58,4785.17,4328.52,,balrampurchinimills
+9,EXPENSES,,,,,,,balrampurchinimills
+10,Cost Of Materials Consumed,3419.40,3261.73,3511.86,3464.16,3595.41,,balrampurchinimills
+11,Purchase Of Stock-In Trade,0.00,0.00,0.00,0.00,0.00,,balrampurchinimills
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,balrampurchinimills
+13,Changes In Inventories Of FGWIP And Stock In Trade,-10.16,194.42,-55.83,37.34,-538.36,,balrampurchinimills
+14,Employee Benefit Expenses,363.79,307.80,281.65,254.00,230.46,,balrampurchinimills
+15,Finance Costs,48.65,30.87,39.30,64.17,40.94,,balrampurchinimills
+16,Depreciation And Amortisation Expenses,129.50,113.86,111.88,101.42,95.85,,balrampurchinimills
+17,Other Expenses,380.79,382.38,360.14,303.84,309.20,,balrampurchinimills
+18,Total Expenses,4331.97,4291.06,4249.00,4224.91,3733.49,,balrampurchinimills
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",396.68,587.98,589.58,560.25,595.03,,balrampurchinimills
+20,Exceptional Items,0.00,-1.20,0.00,0.00,0.00,,balrampurchinimills
+21,Profit/Loss Before Tax,396.68,586.78,589.58,560.25,595.03,,balrampurchinimills
+22,Tax Expenses-Continued Operations,,,,,,,balrampurchinimills
+23,Current Tax,69.42,114.66,102.60,97.10,128.48,,balrampurchinimills
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,balrampurchinimills
+25,Deferred Tax,54.73,19.42,26.79,-48.40,-102.51,,balrampurchinimills
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,balrampurchinimills
+27,Total Tax Expenses,124.15,134.08,129.39,48.71,25.97,,balrampurchinimills
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,272.53,452.69,460.19,511.55,569.07,,balrampurchinimills
+29,Profit/Loss From Continuing Operations,272.53,452.69,460.19,511.55,569.07,,balrampurchinimills
+30,Profit/Loss For The Period,272.53,452.69,460.19,511.55,569.07,,balrampurchinimills
+31,Minority Interest,0.00,0.00,0.00,0.00,0.00,,balrampurchinimills
+32,Consolidated Profit/Loss After MI And Associates,284.17,464.64,479.79,519.35,575.82,,balrampurchinimills
+33,OTHER ADDITIONAL INFORMATION,,,,,,,balrampurchinimills
+34,EARNINGS PER SHARE,,,,,,,balrampurchinimills
+35,Basic EPS (Rs.),14.00,22.00,22.00,23.00,25.00,,balrampurchinimills
+36,Diluted EPS (Rs.),14.00,22.00,22.00,23.00,25.00,,balrampurchinimills
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,balrampurchinimills
+38,Equity Share Dividend,50.84,51.01,52.50,55.00,57.11,,balrampurchinimills
+39,Tax On Dividend,0.00,0.00,0.00,11.31,11.74,,balrampurchinimills
+0,Profit & Loss account of Bharti Airtel (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,bhartiairtel
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,bhartiairtel
+2,INCOME,,,,,,,bhartiairtel
+3,Revenue From Operations [Gross],139144.80,116546.90,100615.80,87539.00,80780.20,,bhartiairtel
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,bhartiairtel
+5,Revenue From Operations [Net],139144.80,116546.90,100615.80,87539.00,80780.20,,bhartiairtel
+6,Total Operating Revenues,139144.80,116546.90,100615.80,87539.00,80780.20,,bhartiairtel
+7,Other Income,936.60,534.30,642.80,1934.60,1379.10,,bhartiairtel
+8,Total Revenue,140081.40,117081.20,101258.60,89473.60,82159.30,,bhartiairtel
+9,EXPENSES,,,,,,,bhartiairtel
+10,Cost Of Materials Consumed,0.00,0.00,0.00,0.00,0.00,,bhartiairtel
+11,Purchase Of Stock-In Trade,0.00,0.00,0.00,0.00,0.00,,bhartiairtel
+12,Operating And Direct Expenses,47915.70,42845.20,31090.30,37764.10,38807.90,,bhartiairtel
+13,Changes In Inventories Of FGWIP And Stock In Trade,0.00,0.00,0.00,0.00,0.00,,bhartiairtel
+14,Employee Benefit Expenses,4830.80,4433.30,4114.60,3807.20,3797.50,,bhartiairtel
+15,Finance Costs,19299.90,16616.20,15091.00,13991.80,10622.20,,bhartiairtel
+16,Depreciation And Amortisation Expenses,36431.80,33090.70,29404.40,27689.60,21347.50,,bhartiairtel
+17,Other Expenses,15124.80,11734.50,20039.20,9485.40,12600.40,,bhartiairtel
+18,Total Expenses,123603.00,108719.90,99739.50,92738.10,87175.50,,bhartiairtel
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",16478.40,8361.30,1519.10,-3264.50,-5016.20,,bhartiairtel
+20,Exceptional Items,-669.80,1698.60,-15914.50,-40234.40,2928.80,,bhartiairtel
+21,Profit/Loss Before Tax,15808.60,10059.90,-14395.40,-43498.90,-2087.40,,bhartiairtel
+22,Tax Expenses-Continued Operations,,,,,,,bhartiairtel
+23,Current Tax,3483.10,3033.10,2058.40,2373.80,1939.10,,bhartiairtel
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,bhartiairtel
+25,Deferred Tax,790.20,1144.80,6874.10,-14556.10,-5358.40,,bhartiairtel
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,bhartiairtel
+27,Total Tax Expenses,4273.30,4177.90,8932.50,-12182.30,-3419.30,,bhartiairtel
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,11535.30,5882.00,-23327.90,-31316.60,1331.90,,bhartiairtel
+29,Profit/Loss From Continuing Operations,11535.30,5882.00,-23327.90,-31316.60,1331.90,,bhartiairtel
+30,Profit/Loss For The Period,11535.30,5882.00,-12271.20,-31316.60,1331.90,,bhartiairtel
+31,Minority Interest,-3941.50,-4050.30,-2719.50,-1519.00,-1278.00,,bhartiairtel
+32,Consolidated Profit/Loss After MI And Associates,8345.90,4254.90,-15083.50,-32183.20,409.50,,bhartiairtel
+33,OTHER ADDITIONAL INFORMATION,,,,,,,bhartiairtel
+34,EARNINGS PER SHARE,,,,,,,bhartiairtel
+35,Basic EPS (Rs.),15.00,8.00,-28.00,-63.00,1.00,,bhartiairtel
+36,Diluted EPS (Rs.),15.00,8.00,-28.00,-63.00,1.00,,bhartiairtel
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,bhartiairtel
+38,Equity Share Dividend,1697.60,0.00,1241.90,0.00,2409.60,,bhartiairtel
+39,Tax On Dividend,0.00,0.00,0.00,0.00,0.00,,bhartiairtel
+0,Profit & Loss account of Bharat Heavy Electricals (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,bharatheavyelectricals
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,bharatheavyelectricals
+2,INCOME,,,,,,,bharatheavyelectricals
+3,Revenue From Operations [Gross],22136.30,20153.38,16295.80,20494.59,29441.59,,bharatheavyelectricals
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,bharatheavyelectricals
+5,Revenue From Operations [Net],22136.30,20153.38,16295.80,20494.59,29441.59,,bharatheavyelectricals
+6,Total Operating Revenues,23364.94,21211.09,17308.69,21463.14,30441.38,,bharatheavyelectricals
+7,Other Income,488.63,354.54,348.42,564.30,661.52,,bharatheavyelectricals
+8,Total Revenue,23853.57,21565.63,17657.11,22027.44,31102.90,,bharatheavyelectricals
+9,EXPENSES,,,,,,,bharatheavyelectricals
+10,Cost Of Materials Consumed,6279.46,5327.07,8447.30,12134.55,15394.44,,bharatheavyelectricals
+11,Purchase Of Stock-In Trade,4657.33,4141.75,0.00,0.00,0.00,,bharatheavyelectricals
+12,Operating And Direct Expenses,5421.08,4792.61,2912.47,2947.17,3866.88,,bharatheavyelectricals
+13,Changes In Inventories Of FGWIP And Stock In Trade,-57.15,532.41,510.86,-1042.43,-989.31,,bharatheavyelectricals
+14,Employee Benefit Expenses,5700.63,5519.05,5378.15,5431.88,5509.25,,bharatheavyelectricals
+15,Finance Costs,521.43,355.96,373.95,508.45,288.37,,bharatheavyelectricals
+16,Depreciation And Amortisation Expenses,260.34,314.12,473.25,503.27,475.74,,bharatheavyelectricals
+17,Other Expenses,647.03,1688.87,1733.74,1995.54,2698.13,,bharatheavyelectricals
+18,Total Expenses,23430.15,21145.59,21297.18,22712.23,29077.56,,bharatheavyelectricals
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",423.42,420.04,-3640.07,-684.79,2025.34,,bharatheavyelectricals
+20,Exceptional Items,0.00,0.00,0.00,0.00,0.00,,bharatheavyelectricals
+21,Profit/Loss Before Tax,423.42,420.04,-3640.07,-684.79,2025.34,,bharatheavyelectricals
+22,Tax Expenses-Continued Operations,,,,,,,bharatheavyelectricals
+23,Current Tax,-111.22,-77.13,15.82,1.52,735.07,,bharatheavyelectricals
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,bharatheavyelectricals
+25,Deferred Tax,113.27,102.88,-912.05,807.76,102.25,,bharatheavyelectricals
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,bharatheavyelectricals
+27,Total Tax Expenses,2.05,25.75,-896.23,809.28,837.32,,bharatheavyelectricals
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,421.37,394.29,-2743.84,-1494.07,1188.02,,bharatheavyelectricals
+29,Profit/Loss From Continuing Operations,421.37,394.29,-2743.84,-1494.07,1188.02,,bharatheavyelectricals
+30,Profit/Loss For The Period,421.37,394.29,-2743.84,-1494.07,1188.02,,bharatheavyelectricals
+31,Minority Interest,0.00,1.32,2.59,2.34,2.68,,bharatheavyelectricals
+32,Consolidated Profit/Loss After MI And Associates,477.39,446.03,-2697.11,-1466.01,1005.10,,bharatheavyelectricals
+33,OTHER ADDITIONAL INFORMATION,,,,,,,bharatheavyelectricals
+34,EARNINGS PER SHARE,,,,,,,bharatheavyelectricals
+35,Basic EPS (Rs.),1.00,1.00,-8.00,-4.00,3.00,,bharatheavyelectricals
+36,Diluted EPS (Rs.),1.00,1.00,-8.00,-4.00,3.00,,bharatheavyelectricals
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,bharatheavyelectricals
+38,Equity Share Dividend,139.28,0.00,0.00,0.00,278.57,,bharatheavyelectricals
+39,Tax On Dividend,0.00,0.00,0.00,0.00,134.24,,bharatheavyelectricals
+0,Profit & Loss account of Britannia Industries (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,britanniaindustries
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,britanniaindustries
+2,INCOME,,,,,,,britanniaindustries
+3,Revenue From Operations [Gross],15984.90,13944.67,12883.04,11443.99,10973.46,,britanniaindustries
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,britanniaindustries
+5,Revenue From Operations [Net],15984.90,13944.67,12883.04,11443.99,10973.46,,britanniaindustries
+6,Total Operating Revenues,16300.55,14136.26,13136.14,11599.55,11054.67,,britanniaindustries
+7,Other Income,215.86,222.83,312.87,279.40,206.45,,britanniaindustries
+8,Total Revenue,16516.41,14359.09,13449.01,11878.95,11261.12,,britanniaindustries
+9,EXPENSES,,,,,,,britanniaindustries
+10,Cost Of Materials Consumed,8326.70,7473.97,6502.33,5684.98,5513.01,,britanniaindustries
+11,Purchase Of Stock-In Trade,1337.13,1361.59,1160.89,1189.92,1103.63,,britanniaindustries
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,britanniaindustries
+13,Changes In Inventories Of FGWIP And Stock In Trade,-72.53,-75.26,-37.12,52.57,-55.18,,britanniaindustries
+14,Employee Benefit Expenses,658.38,542.26,527.38,486.69,441.82,,britanniaindustries
+15,Finance Costs,169.10,144.29,110.90,76.90,9.09,,britanniaindustries
+16,Depreciation And Amortisation Expenses,225.91,200.54,197.85,184.81,161.88,,britanniaindustries
+17,Other Expenses,3219.96,2632.19,2473.37,2342.21,2317.97,,britanniaindustries
+18,Total Expenses,13864.65,12279.58,10935.60,10018.08,9492.22,,britanniaindustries
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",2651.76,2079.51,2513.41,1860.87,1768.90,,britanniaindustries
+20,Exceptional Items,375.60,-0.98,-0.61,-17.01,0.00,,britanniaindustries
+21,Profit/Loss Before Tax,3027.36,2078.53,2512.80,1843.86,1768.90,,britanniaindustries
+22,Tax Expenses-Continued Operations,,,,,,,britanniaindustries
+23,Current Tax,720.97,612.24,657.12,447.69,599.78,,britanniaindustries
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,britanniaindustries
+25,Deferred Tax,-4.52,-49.89,5.90,3.01,12.69,,britanniaindustries
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,britanniaindustries
+27,Total Tax Expenses,716.45,562.35,663.02,450.70,612.47,,britanniaindustries
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,2310.91,1516.18,1849.78,1393.16,1156.43,,britanniaindustries
+29,Profit/Loss From Continuing Operations,2310.91,1516.18,1849.78,1393.16,1156.43,,britanniaindustries
+30,Profit/Loss For The Period,2310.91,1516.18,1849.78,1393.16,1156.43,,britanniaindustries
+31,Minority Interest,5.45,8.84,13.31,9.03,3.66,,britanniaindustries
+32,Consolidated Profit/Loss After MI And Associates,2321.77,1524.82,1863.90,1402.63,1159.12,,britanniaindustries
+33,OTHER ADDITIONAL INFORMATION,,,,,,,britanniaindustries
+34,EARNINGS PER SHARE,,,,,,,britanniaindustries
+35,Basic EPS (Rs.),96.00,63.00,77.00,58.00,48.00,,britanniaindustries
+36,Diluted EPS (Rs.),96.00,63.00,77.00,58.00,48.00,,britanniaindustries
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,britanniaindustries
+38,Equity Share Dividend,1360.91,1794.47,2839.66,360.48,360.45,,britanniaindustries
+39,Tax On Dividend,0.00,0.00,0.00,74.09,1.40,,britanniaindustries
+0,Profit & Loss account of Birlasoft (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,birlasoft
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,birlasoft
+2,INCOME,,,,,,,birlasoft
+3,Revenue From Operations [Gross],4794.77,4130.35,3555.72,3290.97,2550.67,,birlasoft
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,birlasoft
+5,Revenue From Operations [Net],4794.77,4130.35,3555.72,3290.97,2550.67,,birlasoft
+6,Total Operating Revenues,4794.77,4130.35,3555.72,3290.97,2550.67,,birlasoft
+7,Other Income,22.81,66.20,18.98,42.99,26.06,,birlasoft
+8,Total Revenue,4817.58,4196.55,3574.70,3333.96,2576.72,,birlasoft
+9,EXPENSES,,,,,,,birlasoft
+10,Cost Of Materials Consumed,0.00,0.00,0.00,0.00,0.00,,birlasoft
+11,Purchase Of Stock-In Trade,0.00,0.00,0.00,0.00,0.00,,birlasoft
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,birlasoft
+13,Changes In Inventories Of FGWIP And Stock In Trade,0.00,0.00,0.00,0.00,0.00,,birlasoft
+14,Employee Benefit Expenses,2813.06,2368.88,2115.81,1997.54,1535.19,,birlasoft
+15,Finance Costs,18.59,13.02,13.04,16.13,10.84,,birlasoft
+16,Depreciation And Amortisation Expenses,82.27,76.51,80.37,82.58,49.87,,birlasoft
+17,Other Expenses,1461.25,1121.35,910.68,901.51,709.08,,birlasoft
+18,Total Expenses,4375.16,3579.75,3119.90,2997.76,2304.99,,birlasoft
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",442.42,616.80,454.80,336.20,271.74,,birlasoft
+20,Exceptional Items,0.00,-0.14,0.00,0.00,17.59,,birlasoft
+21,Profit/Loss Before Tax,442.42,616.66,454.80,336.20,289.32,,birlasoft
+22,Tax Expenses-Continued Operations,,,,,,,birlasoft
+23,Current Tax,127.78,152.37,117.30,111.16,74.67,,birlasoft
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,birlasoft
+25,Deferred Tax,-16.94,0.66,16.67,0.69,-20.73,,birlasoft
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,birlasoft
+27,Total Tax Expenses,110.84,153.02,133.97,111.86,53.94,,birlasoft
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,331.58,463.64,320.83,224.35,235.39,,birlasoft
+29,Profit/Loss From Continuing Operations,331.58,463.64,320.83,224.35,235.39,,birlasoft
+30,Profit/Loss For The Period,331.58,463.64,320.83,224.35,292.16,,birlasoft
+31,Minority Interest,0.00,0.00,0.00,0.00,-2.69,,birlasoft
+32,Consolidated Profit/Loss After MI And Associates,331.58,463.64,320.83,224.35,289.47,,birlasoft
+33,OTHER ADDITIONAL INFORMATION,,,,,,,birlasoft
+34,EARNINGS PER SHARE,,,,,,,birlasoft
+35,Basic EPS (Rs.),12.00,17.00,12.00,8.00,14.00,,birlasoft
+36,Diluted EPS (Rs.),12.00,17.00,11.00,8.00,13.00,,birlasoft
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,birlasoft
+38,Equity Share Dividend,124.95,111.08,55.42,82.61,45.66,,birlasoft
+39,Tax On Dividend,0.00,0.00,0.00,16.98,9.74,,birlasoft
+0,Profit & Loss account of Chambal Fertilisers and Chemicals (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,chambalfertiliserschemicals
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,chambalfertiliserschemicals
+2,INCOME,,,,,,,chambalfertiliserschemicals
+3,Revenue From Operations [Gross],27771.45,16067.50,12717.55,12204.66,10177.09,,chambalfertiliserschemicals
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,chambalfertiliserschemicals
+5,Revenue From Operations [Net],27771.45,16067.50,12717.55,12204.66,10177.09,,chambalfertiliserschemicals
+6,Total Operating Revenues,27772.81,16068.83,12719.01,12205.95,10177.36,,chambalfertiliserschemicals
+7,Other Income,167.76,68.00,37.35,106.56,82.77,,chambalfertiliserschemicals
+8,Total Revenue,27940.57,16136.83,12756.36,12312.51,10260.14,,chambalfertiliserschemicals
+9,EXPENSES,,,,,,,chambalfertiliserschemicals
+10,Cost Of Materials Consumed,8522.56,5368.53,2924.19,3773.21,2785.63,,chambalfertiliserschemicals
+11,Purchase Of Stock-In Trade,9395.60,6561.77,4060.16,2907.44,3806.82,,chambalfertiliserschemicals
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,chambalfertiliserschemicals
+13,Changes In Inventories Of FGWIP And Stock In Trade,1786.13,-2326.99,353.86,208.66,-510.64,,chambalfertiliserschemicals
+14,Employee Benefit Expenses,191.00,180.67,176.41,156.02,166.46,,chambalfertiliserschemicals
+15,Finance Costs,320.02,105.93,279.39,502.63,252.54,,chambalfertiliserschemicals
+16,Depreciation And Amortisation Expenses,308.29,299.74,289.22,286.86,144.09,,chambalfertiliserschemicals
+17,Other Expenses,6058.17,4022.66,2740.94,3258.21,2701.22,,chambalfertiliserschemicals
+18,Total Expenses,26581.77,14212.31,10824.17,11093.03,9346.11,,chambalfertiliserschemicals
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",1358.80,1924.52,1932.19,1219.48,914.02,,chambalfertiliserschemicals
+20,Exceptional Items,0.00,0.00,337.89,105.57,-197.27,,chambalfertiliserschemicals
+21,Profit/Loss Before Tax,1358.80,1924.52,2270.08,1325.05,716.75,,chambalfertiliserschemicals
+22,Tax Expenses-Continued Operations,,,,,,,chambalfertiliserschemicals
+23,Current Tax,208.87,320.17,324.03,194.20,221.86,,chambalfertiliserschemicals
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,chambalfertiliserschemicals
+25,Deferred Tax,173.67,327.88,282.27,-85.82,38.22,,chambalfertiliserschemicals
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,chambalfertiliserschemicals
+27,Total Tax Expenses,382.54,664.84,611.94,101.44,248.58,,chambalfertiliserschemicals
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,976.26,1259.68,1658.14,1223.61,468.17,,chambalfertiliserschemicals
+29,Profit/Loss From Continuing Operations,976.26,1259.68,1658.14,1223.61,468.17,,chambalfertiliserschemicals
+30,Profit/Loss For The Period,976.26,1259.68,1658.14,1222.55,468.17,,chambalfertiliserschemicals
+31,Minority Interest,0.43,-0.08,-92.83,0.63,5.37,,chambalfertiliserschemicals
+32,Consolidated Profit/Loss After MI And Associates,1034.22,1565.98,1654.76,1226.19,590.21,,chambalfertiliserschemicals
+33,OTHER ADDITIONAL INFORMATION,,,,,,,chambalfertiliserschemicals
+34,EARNINGS PER SHARE,,,,,,,chambalfertiliserschemicals
+35,Basic EPS (Rs.),25.00,38.00,40.00,29.00,14.00,,chambalfertiliserschemicals
+36,Diluted EPS (Rs.),25.00,38.00,40.00,29.00,14.00,,chambalfertiliserschemicals
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,chambalfertiliserschemicals
+38,Equity Share Dividend,312.16,374.58,124.86,301.05,95.34,,chambalfertiliserschemicals
+39,Tax On Dividend,0.00,0.00,0.00,0.00,0.00,,chambalfertiliserschemicals
+0,Profit & Loss account of Colgate Palmolive (India) (in Rs. Cr.),Mar 10,Mar 09,Mar 08,Mar 07,Mar 06,,colgatepalmoliveindia
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,colgatepalmoliveindia
+2,INCOME,,,,,,,colgatepalmoliveindia
+3,Revenue From Operations [Gross],2079.48,1811.05,1553.68,1387.92,1219.26,,colgatepalmoliveindia
+4,Less: Excise/Sevice Tax/Other Levies,64.64,59.85,78.51,89.19,89.96,,colgatepalmoliveindia
+5,Revenue From Operations [Net],2014.84,1751.20,1475.17,1298.72,1129.30,,colgatepalmoliveindia
+6,Total Operating Revenues,2014.84,1751.20,1475.17,1298.72,1129.30,,colgatepalmoliveindia
+7,Other Income,32.64,26.93,68.89,62.36,26.15,,colgatepalmoliveindia
+8,Total Revenue,2047.48,1778.14,1544.06,1361.09,1155.44,,colgatepalmoliveindia
+9,EXPENSES,,,,,,,colgatepalmoliveindia
+10,Cost Of Materials Consumed,673.06,613.61,374.97,277.29,238.71,,colgatepalmoliveindia
+11,Purchase Of Stock-In Trade,122.21,93.73,237.37,313.02,262.45,,colgatepalmoliveindia
+12,Operating And Direct Expenses,100.82,84.80,58.87,41.76,32.71,,colgatepalmoliveindia
+13,Changes In Inventories Of FGWIP And Stock In Trade,-14.74,-1.03,0.50,-4.27,7.61,,colgatepalmoliveindia
+14,Employee Benefit Expenses,161.33,155.76,124.82,171.44,89.61,,colgatepalmoliveindia
+15,Finance Costs,1.50,1.54,1.23,0.98,0.66,,colgatepalmoliveindia
+16,Depreciation And Amortisation Expenses,30.66,28.25,20.93,19.57,43.30,,colgatepalmoliveindia
+17,Other Expenses,480.15,456.95,426.56,345.84,289.68,,colgatepalmoliveindia
+18,Total Expenses,1554.99,1433.61,1245.24,1165.64,964.72,,colgatepalmoliveindia
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",492.49,344.53,298.82,195.45,190.72,,colgatepalmoliveindia
+20,Exceptional Items,0.00,0.00,0.00,0.00,0.00,,colgatepalmoliveindia
+21,Profit/Loss Before Tax,492.49,344.53,298.82,195.45,190.72,,colgatepalmoliveindia
+22,Tax Expenses-Continued Operations,,,,,,,colgatepalmoliveindia
+23,Current Tax,67.59,43.57,67.42,59.61,47.36,,colgatepalmoliveindia
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,colgatepalmoliveindia
+25,Deferred Tax,-2.81,12.95,-2.43,-16.75,-2.68,,colgatepalmoliveindia
+26,Other Direct Taxes,0.00,3.77,4.28,4.20,6.00,,colgatepalmoliveindia
+27,Total Tax Expenses,64.78,60.30,69.26,47.06,50.68,,colgatepalmoliveindia
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,427.71,284.23,229.56,148.40,140.04,,colgatepalmoliveindia
+29,Profit/Loss From Continuing Operations,435.61,288.23,236.68,148.40,140.04,,colgatepalmoliveindia
+30,Profit/Loss For The Period,435.61,288.23,236.68,148.40,140.04,,colgatepalmoliveindia
+31,Minority Interest,1.51,2.45,0.92,0.00,0.00,,colgatepalmoliveindia
+32,Consolidated Profit/Loss After MI And Associates,434.10,285.78,235.76,148.40,140.04,,colgatepalmoliveindia
+33,OTHER ADDITIONAL INFORMATION,,,,,,,colgatepalmoliveindia
+34,EARNINGS PER SHARE,,,,,,,colgatepalmoliveindia
+35,Basic EPS (Rs.),32.00,21.00,17.00,11.00,10.00,,colgatepalmoliveindia
+36,Diluted EPS (Rs.),32.00,21.00,17.00,11.00,10.00,,colgatepalmoliveindia
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,colgatepalmoliveindia
+38,Equity Share Dividend,271.99,203.99,176.79,129.19,101.99,,colgatepalmoliveindia
+39,Tax On Dividend,46.18,35.15,51.37,18.93,14.30,,colgatepalmoliveindia
+0,Profit & Loss account of Crompton Greaves Consumer Electrical (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,cromptongreavesconsumerelectrical
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,cromptongreavesconsumerelectrical
+2,INCOME,,,,,,,cromptongreavesconsumerelectrical
+3,Revenue From Operations [Gross],6832.55,5374.06,4792.19,4505.47,4463.88,,cromptongreavesconsumerelectrical
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,cromptongreavesconsumerelectrical
+5,Revenue From Operations [Net],6832.55,5374.06,4792.19,4505.47,4463.88,,cromptongreavesconsumerelectrical
+6,Total Operating Revenues,6869.61,5394.11,4803.51,4520.26,4478.91,,cromptongreavesconsumerelectrical
+7,Other Income,66.78,72.65,75.75,59.05,48.01,,cromptongreavesconsumerelectrical
+8,Total Revenue,6936.39,5466.76,4879.26,4579.31,4526.92,,cromptongreavesconsumerelectrical
+9,EXPENSES,,,,,,,cromptongreavesconsumerelectrical
+10,Cost Of Materials Consumed,1734.96,1193.91,986.31,979.46,1056.49,,cromptongreavesconsumerelectrical
+11,Purchase Of Stock-In Trade,3011.32,2467.57,2320.00,2217.16,2058.62,,cromptongreavesconsumerelectrical
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,cromptongreavesconsumerelectrical
+13,Changes In Inventories Of FGWIP And Stock In Trade,-65.93,40.30,-39.07,-126.29,-23.29,,cromptongreavesconsumerelectrical
+14,Employee Benefit Expenses,540.80,362.39,336.58,310.95,291.88,,cromptongreavesconsumerelectrical
+15,Finance Costs,109.18,35.31,42.91,40.67,59.60,,cromptongreavesconsumerelectrical
+16,Depreciation And Amortisation Expenses,115.92,42.28,29.69,26.79,12.89,,cromptongreavesconsumerelectrical
+17,Other Expenses,877.99,560.49,479.21,539.88,510.89,,cromptongreavesconsumerelectrical
+18,Total Expenses,6324.24,4702.25,4155.63,3988.62,3967.08,,cromptongreavesconsumerelectrical
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",612.15,764.51,723.63,590.69,559.84,,cromptongreavesconsumerelectrical
+20,Exceptional Items,0.00,-12.97,0.00,0.00,0.00,,cromptongreavesconsumerelectrical
+21,Profit/Loss Before Tax,612.15,751.54,723.63,590.69,559.84,,cromptongreavesconsumerelectrical
+22,Tax Expenses-Continued Operations,,,,,,,cromptongreavesconsumerelectrical
+23,Current Tax,178.62,159.52,115.61,84.00,171.12,,cromptongreavesconsumerelectrical
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,cromptongreavesconsumerelectrical
+25,Deferred Tax,-26.16,9.67,-8.63,10.30,-12.67,,cromptongreavesconsumerelectrical
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,cromptongreavesconsumerelectrical
+27,Total Tax Expenses,135.75,173.16,106.98,94.30,158.45,,cromptongreavesconsumerelectrical
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,476.40,578.38,616.65,496.39,401.39,,cromptongreavesconsumerelectrical
+29,Profit/Loss From Continuing Operations,476.40,578.38,616.65,496.39,401.39,,cromptongreavesconsumerelectrical
+30,Profit/Loss For The Period,476.40,578.38,616.65,496.39,401.39,,cromptongreavesconsumerelectrical
+31,Minority Interest,-13.19,0.00,0.00,0.00,0.00,,cromptongreavesconsumerelectrical
+32,Consolidated Profit/Loss After MI And Associates,463.21,578.38,616.65,496.39,401.39,,cromptongreavesconsumerelectrical
+33,OTHER ADDITIONAL INFORMATION,,,,,,,cromptongreavesconsumerelectrical
+34,EARNINGS PER SHARE,,,,,,,cromptongreavesconsumerelectrical
+35,Basic EPS (Rs.),7.00,9.00,10.00,8.00,6.00,,cromptongreavesconsumerelectrical
+36,Diluted EPS (Rs.),7.00,9.00,10.00,8.00,6.00,,cromptongreavesconsumerelectrical
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,cromptongreavesconsumerelectrical
+38,Equity Share Dividend,158.41,156.96,188.20,151.17,125.40,,cromptongreavesconsumerelectrical
+39,Tax On Dividend,0.00,0.00,0.00,0.00,6.84,,cromptongreavesconsumerelectrical
+0,Profit & Loss account of Escorts Kubota (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,escortskubota
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,escortskubota
+2,INCOME,,,,,,,escortskubota
+3,Revenue From Operations [Gross],8242.20,7052.99,6857.58,5688.36,6169.84,,escortskubota
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,escortskubota
+5,Revenue From Operations [Net],8242.20,7052.99,6857.58,5688.36,6169.84,,escortskubota
+6,Total Operating Revenues,8428.69,7238.43,7014.42,5810.09,6262.02,,escortskubota
+7,Other Income,280.93,218.02,160.38,97.60,92.40,,escortskubota
+8,Total Revenue,8709.62,7456.45,7174.80,5907.69,6354.42,,escortskubota
+9,EXPENSES,,,,,,,escortskubota
+10,Cost Of Materials Consumed,5776.18,4534.63,4073.07,3476.31,4077.48,,escortskubota
+11,Purchase Of Stock-In Trade,510.35,510.82,441.65,370.37,403.99,,escortskubota
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,escortskubota
+13,Changes In Inventories Of FGWIP And Stock In Trade,-163.65,-66.94,129.92,-5.58,-204.54,,escortskubota
+14,Employee Benefit Expenses,607.40,541.90,546.91,520.51,484.73,,escortskubota
+15,Finance Costs,13.27,14.97,13.34,17.23,19.54,,escortskubota
+16,Depreciation And Amortisation Expenses,150.06,132.06,118.28,107.22,87.21,,escortskubota
+17,Other Expenses,920.89,766.83,696.11,786.08,775.83,,escortskubota
+18,Total Expenses,7814.50,6434.27,6019.28,5272.14,5644.24,,escortskubota
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",895.12,1022.18,1155.52,635.55,710.18,,escortskubota
+20,Exceptional Items,-53.05,0.00,0.00,-9.22,5.56,,escortskubota
+21,Profit/Loss Before Tax,842.07,1022.18,1155.52,626.33,715.74,,escortskubota
+22,Tax Expenses-Continued Operations,,,,,,,escortskubota
+23,Current Tax,171.60,242.81,287.14,174.45,198.63,,escortskubota
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,escortskubota
+25,Deferred Tax,26.34,14.41,-3.99,-20.92,38.48,,escortskubota
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,escortskubota
+27,Total Tax Expenses,197.94,257.22,283.15,153.53,237.11,,escortskubota
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,644.13,764.96,872.37,472.80,478.63,,escortskubota
+29,Profit/Loss From Continuing Operations,644.13,764.96,872.37,472.80,478.63,,escortskubota
+30,Profit/Loss For The Period,644.13,764.96,872.37,472.80,479.86,,escortskubota
+31,Minority Interest,0.13,0.86,-0.17,0.53,1.03,,escortskubota
+32,Consolidated Profit/Loss After MI And Associates,636.78,736.47,871.46,472.25,478.93,,escortskubota
+33,OTHER ADDITIONAL INFORMATION,,,,,,,escortskubota
+34,EARNINGS PER SHARE,,,,,,,escortskubota
+35,Basic EPS (Rs.),59.00,74.00,92.00,55.00,56.00,,escortskubota
+36,Diluted EPS (Rs.),59.00,74.00,92.00,55.00,56.00,,escortskubota
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,escortskubota
+38,Equity Share Dividend,76.28,73.73,24.52,21.45,23.90,,escortskubota
+39,Tax On Dividend,0.00,0.00,0.00,4.57,5.04,,escortskubota
+0,Profit & Loss account of GMR Airports Infrastructure (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,gmrairportsinfrastructure
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,gmrairportsinfrastructure
+2,INCOME,,,,,,,gmrairportsinfrastructure
+3,Revenue From Operations [Gross],5851.41,3772.17,2662.16,7675.85,7267.19,,gmrairportsinfrastructure
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,gmrairportsinfrastructure
+5,Revenue From Operations [Net],5851.41,3772.17,2662.16,7675.85,7267.19,,gmrairportsinfrastructure
+6,Total Operating Revenues,6693.40,4600.72,3566.01,8555.54,7564.88,,gmrairportsinfrastructure
+7,Other Income,595.59,358.44,430.73,666.59,719.84,,gmrairportsinfrastructure
+8,Total Revenue,7288.99,4959.16,3996.74,9222.13,8284.72,,gmrairportsinfrastructure
+9,EXPENSES,,,,,,,gmrairportsinfrastructure
+10,Cost Of Materials Consumed,96.57,92.57,93.38,434.85,348.16,,gmrairportsinfrastructure
+11,Purchase Of Stock-In Trade,138.19,52.37,0.34,82.92,59.67,,gmrairportsinfrastructure
+12,Operating And Direct Expenses,1986.87,340.27,360.79,2334.55,2281.12,,gmrairportsinfrastructure
+13,Changes In Inventories Of FGWIP And Stock In Trade,-47.45,4.61,16.55,-15.63,1.82,,gmrairportsinfrastructure
+14,Employee Benefit Expenses,969.38,755.12,691.05,831.21,759.88,,gmrairportsinfrastructure
+15,Finance Costs,2343.11,2018.66,1803.00,3545.07,2684.15,,gmrairportsinfrastructure
+16,Depreciation And Amortisation Expenses,1042.44,889.40,886.12,1064.25,983.96,,gmrairportsinfrastructure
+17,Other Expenses,1826.05,1253.21,1616.00,1511.55,1873.19,,gmrairportsinfrastructure
+18,Total Expenses,8355.16,5406.21,5467.23,10536.30,9538.36,,gmrairportsinfrastructure
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",-1066.17,-447.05,-1470.49,-1314.17,-1253.64,,gmrairportsinfrastructure
+20,Exceptional Items,254.34,-388.26,0.00,-680.91,-2212.30,,gmrairportsinfrastructure
+21,Profit/Loss Before Tax,-811.83,-835.31,-1470.49,-1995.08,-3465.94,,gmrairportsinfrastructure
+22,Tax Expenses-Continued Operations,,,,,,,gmrairportsinfrastructure
+23,Current Tax,12.29,15.64,7.08,155.44,223.52,,gmrairportsinfrastructure
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,132.11,,gmrairportsinfrastructure
+25,Deferred Tax,101.78,-27.94,-293.40,-236.54,-179.27,,gmrairportsinfrastructure
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,gmrairportsinfrastructure
+27,Total Tax Expenses,114.07,-12.30,-286.32,-84.92,-87.42,,gmrairportsinfrastructure
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,-925.90,-823.01,-1184.17,-1910.16,-3378.52,,gmrairportsinfrastructure
+29,Profit/Loss From Continuing Operations,-925.90,-823.01,-1184.17,-1910.16,-3378.52,,gmrairportsinfrastructure
+30,Profit/Loss For The Period,-925.90,-1202.09,-3368.68,-1913.86,-3268.40,,gmrairportsinfrastructure
+31,Minority Interest,660.67,108.10,630.49,-227.19,-224.29,,gmrairportsinfrastructure
+32,Consolidated Profit/Loss After MI And Associates,-179.26,-1023.29,-2797.28,-2429.38,-3580.58,,gmrairportsinfrastructure
+33,OTHER ADDITIONAL INFORMATION,,,,,,,gmrairportsinfrastructure
+34,EARNINGS PER SHARE,,,,,,,gmrairportsinfrastructure
+35,Basic EPS (Rs.),0.00,-2.00,-5.00,-4.00,-6.00,,gmrairportsinfrastructure
+36,Diluted EPS (Rs.),0.00,-2.00,-5.00,-4.00,-6.00,,gmrairportsinfrastructure
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,gmrairportsinfrastructure
+38,Equity Share Dividend,0.00,0.00,0.00,0.00,0.00,,gmrairportsinfrastructure
+39,Tax On Dividend,0.00,0.00,0.00,19.47,24.85,,gmrairportsinfrastructure
+0,Profit & Loss account of Hindustan Aeronautics Ltd. (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,hindustanaeronauticsltd
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,hindustanaeronauticsltd
+2,INCOME,,,,,,,hindustanaeronauticsltd
+3,Revenue From Operations [Gross],26360.56,24361.47,22368.89,21217.66,19820.69,,hindustanaeronauticsltd
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,hindustanaeronauticsltd
+5,Revenue From Operations [Net],26360.56,24361.47,22368.89,21217.66,19820.69,,hindustanaeronauticsltd
+6,Total Operating Revenues,26927.46,24620.02,22754.54,21438.17,20008.23,,hindustanaeronauticsltd
+7,Other Income,1670.12,984.93,358.23,293.91,375.51,,hindustanaeronauticsltd
+8,Total Revenue,28597.58,25604.95,23112.77,21732.08,20383.74,,hindustanaeronauticsltd
+9,EXPENSES,,,,,,,hindustanaeronauticsltd
+10,Cost Of Materials Consumed,9993.68,8752.24,7764.72,8164.53,7355.43,,hindustanaeronauticsltd
+11,Purchase Of Stock-In Trade,799.15,656.68,821.16,587.15,307.49,,hindustanaeronauticsltd
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,hindustanaeronauticsltd
+13,Changes In Inventories Of FGWIP And Stock In Trade,-690.72,592.30,2458.14,635.68,1172.15,,hindustanaeronauticsltd
+14,Employee Benefit Expenses,4910.37,4604.42,4305.17,4777.57,4311.03,,hindustanaeronauticsltd
+15,Finance Costs,57.97,58.20,259.17,348.46,169.60,,hindustanaeronauticsltd
+16,Depreciation And Amortisation Expenses,2382.10,1286.96,1178.28,998.52,1025.26,,hindustanaeronauticsltd
+17,Other Expenses,2076.62,1534.01,1475.80,1627.03,1919.41,,hindustanaeronauticsltd
+18,Total Expenses,22090.95,20380.19,18842.61,17889.03,16659.83,,hindustanaeronauticsltd
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",6506.63,5224.76,4270.16,3843.05,3723.91,,hindustanaeronauticsltd
+20,Exceptional Items,0.00,0.00,2.02,118.92,0.00,,hindustanaeronauticsltd
+21,Profit/Loss Before Tax,6506.63,5224.76,4272.18,3961.97,3723.91,,hindustanaeronauticsltd
+22,Tax Expenses-Continued Operations,,,,,,,hindustanaeronauticsltd
+23,Current Tax,2250.00,1900.00,645.00,1180.00,1586.29,,hindustanaeronauticsltd
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,hindustanaeronauticsltd
+25,Deferred Tax,-594.77,-562.62,442.26,-84.01,-199.83,,hindustanaeronauticsltd
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,hindustanaeronauticsltd
+27,Total Tax Expenses,681.77,144.65,1037.93,1095.99,1396.28,,hindustanaeronauticsltd
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,5824.86,5080.11,3234.25,2865.98,2327.63,,hindustanaeronauticsltd
+29,Profit/Loss From Continuing Operations,5824.86,5080.11,3234.25,2865.98,2327.63,,hindustanaeronauticsltd
+30,Profit/Loss For The Period,5824.86,5080.11,3234.25,2865.98,2327.63,,hindustanaeronauticsltd
+31,Minority Interest,0.01,0.16,0.40,0.17,0.25,,hindustanaeronauticsltd
+32,Consolidated Profit/Loss After MI And Associates,5827.74,5080.04,3239.46,2873.17,2328.63,,hindustanaeronauticsltd
+33,OTHER ADDITIONAL INFORMATION,,,,,,,hindustanaeronauticsltd
+34,EARNINGS PER SHARE,,,,,,,hindustanaeronauticsltd
+35,Basic EPS (Rs.),174.00,152.00,97.00,86.00,70.00,,hindustanaeronauticsltd
+36,Diluted EPS (Rs.),174.00,152.00,97.00,86.00,70.00,,hindustanaeronauticsltd
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,hindustanaeronauticsltd
+38,Equity Share Dividend,1671.94,1337.55,1003.16,1111.84,662.09,,hindustanaeronauticsltd
+39,Tax On Dividend,0.00,0.00,0.00,228.54,136.09,,hindustanaeronauticsltd
+0,Profit & Loss account of Havells India (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,havellsindia
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,havellsindia
+2,INCOME,,,,,,,havellsindia
+3,Revenue From Operations [Gross],16805.72,13835.45,10382.73,9407.10,9982.82,,havellsindia
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,havellsindia
+5,Revenue From Operations [Net],16805.72,13835.45,10382.73,9407.10,9982.82,,havellsindia
+6,Total Operating Revenues,16910.73,13938.48,10457.30,9440.26,10073.43,,havellsindia
+7,Other Income,177.71,160.44,187.36,113.41,128.65,,havellsindia
+8,Total Revenue,17088.44,14098.92,10644.66,9553.67,10202.08,,havellsindia
+9,EXPENSES,,,,,,,havellsindia
+10,Cost Of Materials Consumed,9317.92,7770.07,5381.95,4379.64,4524.15,,havellsindia
+11,Purchase Of Stock-In Trade,3028.75,1871.40,1638.82,1280.81,2003.75,,havellsindia
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,havellsindia
+13,Changes In Inventories Of FGWIP And Stock In Trade,-641.20,-219.48,-531.07,172.74,-245.37,,havellsindia
+14,Employee Benefit Expenses,1268.32,1020.69,890.63,906.71,841.72,,havellsindia
+15,Finance Costs,33.62,53.41,72.68,19.72,16.25,,havellsindia
+16,Depreciation And Amortisation Expenses,296.17,260.89,248.91,217.97,152.61,,havellsindia
+17,Other Expenses,2337.80,1735.38,1505.19,1671.71,1764.83,,havellsindia
+18,Total Expenses,15641.38,12492.36,9207.11,8649.30,9057.94,,havellsindia
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",1447.06,1606.56,1437.55,904.37,1144.14,,havellsindia
+20,Exceptional Items,0.00,0.00,0.00,0.00,0.00,,havellsindia
+21,Profit/Loss Before Tax,1447.06,1606.56,1437.55,904.37,1144.14,,havellsindia
+22,Tax Expenses-Continued Operations,,,,,,,havellsindia
+23,Current Tax,364.44,398.58,340.65,198.99,270.16,,havellsindia
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,havellsindia
+25,Deferred Tax,10.89,11.51,52.59,-30.23,88.11,,havellsindia
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,havellsindia
+27,Total Tax Expenses,375.33,410.09,393.24,168.76,358.27,,havellsindia
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,1071.73,1196.47,1044.31,735.61,785.87,,havellsindia
+29,Profit/Loss From Continuing Operations,1071.73,1196.47,1044.31,735.61,785.87,,havellsindia
+30,Profit/Loss For The Period,1071.73,1196.47,1044.31,735.35,785.54,,havellsindia
+31,Minority Interest,0.00,0.00,0.00,0.00,0.44,,havellsindia
+32,Consolidated Profit/Loss After MI And Associates,1071.73,1196.47,1044.31,735.35,785.98,,havellsindia
+33,OTHER ADDITIONAL INFORMATION,,,,,,,havellsindia
+34,EARNINGS PER SHARE,,,,,,,havellsindia
+35,Basic EPS (Rs.),17.00,19.00,17.00,12.00,13.00,,havellsindia
+36,Diluted EPS (Rs.),17.00,19.00,17.00,12.00,13.00,,havellsindia
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,havellsindia
+38,Equity Share Dividend,469.88,187.89,187.80,531.93,250.19,,havellsindia
+39,Tax On Dividend,0.00,0.00,0.00,109.34,51.43,,havellsindia
+0,Profit & Loss account of HDFC Life Insurance Company (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,hdfclifeinsurancecompany
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,hdfclifeinsurancecompany
+2,INCOME,,,,,,,hdfclifeinsurancecompany
+3,Revenue From Operations [Gross],56878.78,46800.95,38148.82,32244.98,28930.67,,hdfclifeinsurancecompany
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+5,Revenue From Operations [Net],56878.78,46800.95,38148.82,32244.98,28930.67,,hdfclifeinsurancecompany
+6,Total Operating Revenues,70207.08,67125.84,71482.65,29380.40,38372.43,,hdfclifeinsurancecompany
+7,Other Income,1437.32,765.76,445.05,368.56,505.45,,hdfclifeinsurancecompany
+8,Total Revenue,71644.40,67891.60,71927.70,29748.97,38877.88,,hdfclifeinsurancecompany
+9,EXPENSES,,,,,,,hdfclifeinsurancecompany
+10,Cost Of Materials Consumed,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+11,Purchase Of Stock-In Trade,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+13,Changes In Inventories Of FGWIP And Stock In Trade,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+14,Employee Benefit Expenses,3067.88,2132.85,1678.83,1679.79,1415.25,,hdfclifeinsurancecompany
+15,Finance Costs,82.41,25.57,18.43,17.02,13.90,,hdfclifeinsurancecompany
+16,Depreciation And Amortisation Expenses,75.71,56.16,50.69,46.57,0.04,,hdfclifeinsurancecompany
+17,Other Expenses,67082.81,64538.84,68669.39,25997.33,35696.52,,hdfclifeinsurancecompany
+18,Total Expenses,70313.13,66466.70,70191.48,28505.98,37216.26,,hdfclifeinsurancecompany
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",1331.27,1424.90,1736.22,1242.98,1661.62,,hdfclifeinsurancecompany
+20,Exceptional Items,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+21,Profit/Loss Before Tax,1331.27,1424.90,1736.22,1242.98,1661.62,,hdfclifeinsurancecompany
+22,Tax Expenses-Continued Operations,,,,,,,hdfclifeinsurancecompany
+23,Current Tax,73.05,160.32,267.80,165.51,239.88,,hdfclifeinsurancecompany
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+25,Deferred Tax,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+27,Total Tax Expenses,73.05,160.32,267.80,165.51,239.88,,hdfclifeinsurancecompany
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,1258.22,1264.58,1468.42,1077.47,1421.74,,hdfclifeinsurancecompany
+29,Profit/Loss From Continuing Operations,1368.28,1326.93,1360.87,1297.44,1277.93,,hdfclifeinsurancecompany
+30,Profit/Loss For The Period,1368.28,1326.93,1360.87,1297.44,1277.93,,hdfclifeinsurancecompany
+31,Minority Interest,0.00,0.00,0.00,0.00,0.00,,hdfclifeinsurancecompany
+32,Consolidated Profit/Loss After MI And Associates,1368.28,1326.93,1360.87,1297.44,1277.93,,hdfclifeinsurancecompany
+33,OTHER ADDITIONAL INFORMATION,,,,,,,hdfclifeinsurancecompany
+34,EARNINGS PER SHARE,,,,,,,hdfclifeinsurancecompany
+35,Basic EPS (Rs.),6.00,6.00,7.00,6.00,6.00,,hdfclifeinsurancecompany
+36,Diluted EPS (Rs.),6.00,6.00,7.00,6.00,6.00,,hdfclifeinsurancecompany
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,hdfclifeinsurancecompany
+38,Equity Share Dividend,359.22,408.47,0.00,0.00,328.83,,hdfclifeinsurancecompany
+39,Tax On Dividend,0.00,0.00,0.00,0.00,67.59,,hdfclifeinsurancecompany
+0,Profit & Loss account of L&T Finance Holdings (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,ltfinanceholdings
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,ltfinanceholdings
+2,INCOME,,,,,,,ltfinanceholdings
+3,Revenue From Operations [Gross],12774.95,11929.70,13678.07,14104.12,12989.72,,ltfinanceholdings
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,ltfinanceholdings
+5,Revenue From Operations [Net],12774.95,11929.70,13678.07,14104.12,12989.72,,ltfinanceholdings
+6,Total Operating Revenues,12774.95,11929.70,13678.07,14104.12,12989.72,,ltfinanceholdings
+7,Other Income,526.75,393.85,402.03,372.63,311.80,,ltfinanceholdings
+8,Total Revenue,13301.70,12323.55,14080.10,14476.75,13301.52,,ltfinanceholdings
+9,EXPENSES,,,,,,,ltfinanceholdings
+10,Cost Of Materials Consumed,0.00,0.00,0.00,0.00,0.00,,ltfinanceholdings
+11,Purchase Of Stock-In Trade,0.00,0.00,0.00,0.00,0.00,,ltfinanceholdings
+12,Operating And Direct Expenses,980.23,1375.18,659.68,327.88,1092.88,,ltfinanceholdings
+13,Changes In Inventories Of FGWIP And Stock In Trade,0.00,0.00,0.00,0.00,0.00,,ltfinanceholdings
+14,Employee Benefit Expenses,1405.93,1094.84,1007.06,1062.32,824.73,,ltfinanceholdings
+15,Finance Costs,5797.24,5753.79,7199.92,7513.60,6860.03,,ltfinanceholdings
+16,Depreciation And Amortisation Expenses,111.24,102.64,87.09,81.59,49.62,,ltfinanceholdings
+17,Other Expenses,1316.23,1065.08,878.73,817.09,721.40,,ltfinanceholdings
+18,Total Expenses,11171.05,11100.70,12810.51,11796.67,10249.54,,ltfinanceholdings
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",2130.65,1222.85,1269.59,2680.08,3051.98,,ltfinanceholdings
+20,Exceptional Items,-2687.17,0.00,225.61,0.00,0.00,,ltfinanceholdings
+21,Profit/Loss Before Tax,-556.52,1222.85,1495.20,2680.08,3051.98,,ltfinanceholdings
+22,Tax Expenses-Continued Operations,,,,,,,ltfinanceholdings
+23,Current Tax,626.32,210.89,703.60,632.50,749.49,,ltfinanceholdings
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,ltfinanceholdings
+25,Deferred Tax,-453.95,162.73,-157.28,-126.06,70.46,,ltfinanceholdings
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,ltfinanceholdings
+27,Total Tax Expenses,172.37,373.62,546.32,979.82,819.95,,ltfinanceholdings
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,-728.89,849.23,948.88,1700.26,2232.03,,ltfinanceholdings
+29,Profit/Loss From Continuing Operations,-728.89,849.23,948.88,1700.26,2232.03,,ltfinanceholdings
+30,Profit/Loss For The Period,1536.48,1049.24,948.88,1700.26,2232.03,,ltfinanceholdings
+31,Minority Interest,86.77,20.87,22.06,-0.09,-5.73,,ltfinanceholdings
+32,Consolidated Profit/Loss After MI And Associates,1623.25,1070.11,970.94,1700.17,2226.30,,ltfinanceholdings
+33,OTHER ADDITIONAL INFORMATION,,,,,,,ltfinanceholdings
+34,EARNINGS PER SHARE,,,,,,,ltfinanceholdings
+35,Basic EPS (Rs.),7.00,4.00,4.00,9.00,11.00,,ltfinanceholdings
+36,Diluted EPS (Rs.),7.00,4.00,4.00,8.00,11.00,,ltfinanceholdings
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,ltfinanceholdings
+38,Equity Share Dividend,123.75,0.00,0.00,380.48,0.00,,ltfinanceholdings
+39,Tax On Dividend,0.00,0.00,0.00,41.85,0.00,,ltfinanceholdings
+0,Profit & Loss account of Maruti Suzuki India (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,marutisuzukiindia
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,marutisuzukiindia
+2,INCOME,,,,,,,marutisuzukiindia
+3,Revenue From Operations [Gross],112511.30,83799.80,66571.80,71704.80,83038.50,,marutisuzukiindia
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,marutisuzukiindia
+5,Revenue From Operations [Net],112511.30,83799.80,66571.80,71704.80,83038.50,,marutisuzukiindia
+6,Total Operating Revenues,117571.30,88329.80,70372.00,75660.00,86068.50,,marutisuzukiindia
+7,Other Income,2140.70,1744.70,2936.30,3334.40,2561.60,,marutisuzukiindia
+8,Total Revenue,119712.00,90074.50,73308.30,78994.40,88630.10,,marutisuzukiindia
+9,EXPENSES,,,,,,,marutisuzukiindia
+10,Cost Of Materials Consumed,46669.60,39739.60,33296.40,34634.80,45025.70,,marutisuzukiindia
+11,Purchase Of Stock-In Trade,39985.10,26397.50,17254.10,18767.20,15026.60,,marutisuzukiindia
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,marutisuzukiindia
+13,Changes In Inventories Of FGWIP And Stock In Trade,-403.90,-93.10,273.60,-238.70,211.60,,marutisuzukiindia
+14,Employee Benefit Expenses,4634.60,4051.40,3431.60,3416.20,3285.00,,marutisuzukiindia
+15,Finance Costs,187.00,126.60,101.80,134.20,75.90,,marutisuzukiindia
+16,Depreciation And Amortisation Expenses,2825.70,2789.00,3034.10,3528.40,3020.80,,marutisuzukiindia
+17,Other Expenses,15805.50,12672.70,10837.50,11889.60,11638.50,,marutisuzukiindia
+18,Total Expenses,109566.30,85539.20,68156.30,72010.00,78162.00,,marutisuzukiindia
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",10145.70,4535.30,5152.00,6984.40,10468.10,,marutisuzukiindia
+20,Exceptional Items,0.00,0.00,0.00,0.00,0.00,,marutisuzukiindia
+21,Profit/Loss Before Tax,10145.70,4535.30,5152.00,6984.40,10468.10,,marutisuzukiindia
+22,Tax Expenses-Continued Operations,,,,,,,marutisuzukiindia
+23,Current Tax,2249.60,1431.00,1156.20,1376.50,2933.80,,marutisuzukiindia
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,marutisuzukiindia
+25,Deferred Tax,-137.50,-613.30,-224.30,48.70,39.40,,marutisuzukiindia
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,marutisuzukiindia
+27,Total Tax Expenses,2112.10,817.70,931.90,1425.20,2973.20,,marutisuzukiindia
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,8033.60,3717.60,4220.10,5559.20,7494.90,,marutisuzukiindia
+29,Profit/Loss From Continuing Operations,8033.60,3717.60,4220.10,5559.20,7494.90,,marutisuzukiindia
+30,Profit/Loss For The Period,8033.60,3717.60,4220.10,5559.20,7494.90,,marutisuzukiindia
+31,Minority Interest,0.00,0.00,0.00,-1.60,-1.50,,marutisuzukiindia
+32,Consolidated Profit/Loss After MI And Associates,8211.00,3879.50,4389.10,5676.00,7649.10,,marutisuzukiindia
+33,OTHER ADDITIONAL INFORMATION,,,,,,,marutisuzukiindia
+34,EARNINGS PER SHARE,,,,,,,marutisuzukiindia
+35,Basic EPS (Rs.),272.00,128.00,145.00,188.00,253.00,,marutisuzukiindia
+36,Diluted EPS (Rs.),272.00,128.00,145.00,188.00,253.00,,marutisuzukiindia
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,marutisuzukiindia
+38,Equity Share Dividend,1812.50,1359.40,1812.50,2416.60,2416.60,,marutisuzukiindia
+39,Tax On Dividend,0.00,0.00,0.00,496.80,496.80,,marutisuzukiindia
+0,Profit & Loss account of Max Financial Services (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,maxfinancialservices
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,maxfinancialservices
+2,INCOME,,,,,,,maxfinancialservices
+3,Revenue From Operations [Gross],31412.67,31181.14,31273.90,18239.98,19497.62,,maxfinancialservices
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,maxfinancialservices
+5,Revenue From Operations [Net],31412.67,31181.14,31273.90,18239.98,19497.62,,maxfinancialservices
+6,Total Operating Revenues,31412.67,31181.14,31273.90,18239.98,19497.62,,maxfinancialservices
+7,Other Income,18.39,6.44,14.11,1.78,3.61,,maxfinancialservices
+8,Total Revenue,31431.06,31187.58,31288.01,18241.76,19501.23,,maxfinancialservices
+9,EXPENSES,,,,,,,maxfinancialservices
+10,Cost Of Materials Consumed,0.00,0.00,0.00,0.00,0.00,,maxfinancialservices
+11,Purchase Of Stock-In Trade,0.00,0.00,0.00,0.00,0.00,,maxfinancialservices
+12,Operating And Direct Expenses,30788.75,30687.55,30634.31,17596.54,18826.57,,maxfinancialservices
+13,Changes In Inventories Of FGWIP And Stock In Trade,0.00,0.00,0.00,0.00,0.00,,maxfinancialservices
+14,Employee Benefit Expenses,29.23,36.77,60.80,35.95,84.37,,maxfinancialservices
+15,Finance Costs,37.46,24.74,0.27,0.28,27.30,,maxfinancialservices
+16,Depreciation And Amortisation Expenses,4.63,5.00,5.32,11.37,1.75,,maxfinancialservices
+17,Other Expenses,44.38,46.61,49.66,83.71,75.38,,maxfinancialservices
+18,Total Expenses,30903.85,30798.92,30695.12,17799.28,19020.39,,maxfinancialservices
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",527.21,388.66,592.89,442.49,480.84,,maxfinancialservices
+20,Exceptional Items,0.00,0.00,0.00,0.00,0.00,,maxfinancialservices
+21,Profit/Loss Before Tax,527.21,388.66,592.89,442.49,480.84,,maxfinancialservices
+22,Tax Expenses-Continued Operations,,,,,,,maxfinancialservices
+23,Current Tax,80.31,62.21,26.02,182.25,66.22,,maxfinancialservices
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,maxfinancialservices
+25,Deferred Tax,-5.00,8.04,7.13,-12.62,-1.85,,maxfinancialservices
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,maxfinancialservices
+27,Total Tax Expenses,75.31,70.25,33.14,169.63,64.37,,maxfinancialservices
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,451.89,318.40,559.75,272.85,416.47,,maxfinancialservices
+29,Profit/Loss From Continuing Operations,451.89,318.40,559.75,272.85,416.47,,maxfinancialservices
+30,Profit/Loss For The Period,451.89,318.40,559.75,272.85,416.47,,maxfinancialservices
+31,Minority Interest,-73.41,-65.03,-134.36,-127.86,-153.91,,maxfinancialservices
+32,Consolidated Profit/Loss After MI And Associates,378.49,253.37,425.39,144.99,262.56,,maxfinancialservices
+33,OTHER ADDITIONAL INFORMATION,,,,,,,maxfinancialservices
+34,EARNINGS PER SHARE,,,,,,,maxfinancialservices
+35,Basic EPS (Rs.),11.00,7.00,15.00,5.00,10.00,,maxfinancialservices
+36,Diluted EPS (Rs.),11.00,7.00,15.00,5.00,10.00,,maxfinancialservices
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,maxfinancialservices
+38,Equity Share Dividend,0.00,0.00,0.00,0.00,0.00,,maxfinancialservices
+39,Tax On Dividend,0.00,0.00,0.00,39.26,81.14,,maxfinancialservices
+0,Profit & Loss account of NMDC (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,nmdc
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,nmdc
+2,INCOME,,,,,,,nmdc
+3,Revenue From Operations [Gross],17661.10,25881.73,15370.05,11698.79,12152.15,,nmdc
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,nmdc
+5,Revenue From Operations [Net],17661.10,25881.73,15370.05,11698.79,12152.15,,nmdc
+6,Total Operating Revenues,17666.88,25881.73,15370.06,11699.22,12152.67,,nmdc
+7,Other Income,768.22,718.52,351.60,514.36,588.96,,nmdc
+8,Total Revenue,18435.10,26600.25,15721.66,12213.58,12741.63,,nmdc
+9,EXPENSES,,,,,,,nmdc
+10,Cost Of Materials Consumed,771.03,626.02,410.24,394.36,426.42,,nmdc
+11,Purchase Of Stock-In Trade,0.00,0.00,0.00,0.00,0.00,,nmdc
+12,Operating And Direct Expenses,7935.05,10178.99,2969.38,2096.29,2003.78,,nmdc
+13,Changes In Inventories Of FGWIP And Stock In Trade,-496.60,-1200.50,-161.81,-53.83,-79.22,,nmdc
+14,Employee Benefit Expenses,1530.57,1337.07,1085.24,1049.36,1039.40,,nmdc
+15,Finance Costs,75.23,39.06,16.81,9.88,40.32,,nmdc
+16,Depreciation And Amortisation Expenses,336.18,287.74,228.54,294.93,279.04,,nmdc
+17,Other Expenses,1874.30,2357.63,2277.74,2211.12,1837.87,,nmdc
+18,Total Expenses,12025.76,13626.01,6826.14,6002.11,5547.61,,nmdc
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",6409.34,12974.24,8895.52,6211.47,7194.02,,nmdc
+20,Exceptional Items,1237.27,0.00,0.00,-96.44,0.00,,nmdc
+21,Profit/Loss Before Tax,7646.61,12974.24,8895.52,6115.03,7194.02,,nmdc
+22,Tax Expenses-Continued Operations,,,,,,,nmdc
+23,Current Tax,1664.65,3444.39,2316.46,1555.59,2752.70,,nmdc
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,nmdc
+25,Deferred Tax,271.43,-122.67,-11.21,185.66,-197.02,,nmdc
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,nmdc
+27,Total Tax Expenses,2108.21,3582.25,2648.45,2512.72,2556.53,,nmdc
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,5538.40,9391.99,6247.07,3602.31,4637.49,,nmdc
+29,Profit/Loss From Continuing Operations,5538.40,9391.99,6247.07,3602.31,4637.49,,nmdc
+30,Profit/Loss For The Period,5537.72,9391.31,6247.47,3601.52,4637.07,,nmdc
+31,Minority Interest,-1.10,0.55,0.37,0.33,0.89,,nmdc
+32,Consolidated Profit/Loss After MI And Associates,5601.46,9379.60,6277.01,3573.29,4618.84,,nmdc
+33,OTHER ADDITIONAL INFORMATION,,,,,,,nmdc
+34,EARNINGS PER SHARE,,,,,,,nmdc
+35,Basic EPS (Rs.),19.00,32.00,21.00,12.00,15.00,,nmdc
+36,Diluted EPS (Rs.),19.00,32.00,21.00,12.00,15.00,,nmdc
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,nmdc
+38,Equity Share Dividend,1098.98,4319.72,2274.15,1619.72,1690.14,,nmdc
+39,Tax On Dividend,0.00,0.00,0.00,332.94,347.41,,nmdc
+0,Profit & Loss account of Piramal Enterprises (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,piramalenterprises
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,piramalenterprises
+2,INCOME,,,,,,,piramalenterprises
+3,Revenue From Operations [Gross],8216.86,13829.31,12770.76,12969.23,11812.38,,piramalenterprises
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,piramalenterprises
+5,Revenue From Operations [Net],8216.86,13829.31,12770.76,12969.23,11812.38,,piramalenterprises
+6,Total Operating Revenues,8934.30,13993.30,12809.35,13068.29,11882.59,,piramalenterprises
+7,Other Income,152.44,720.11,363.64,491.11,309.61,,piramalenterprises
+8,Total Revenue,9086.74,14713.41,13172.99,13559.40,12192.20,,piramalenterprises
+9,EXPENSES,,,,,,,piramalenterprises
+10,Cost Of Materials Consumed,0.00,934.05,1412.20,1377.19,1217.64,,piramalenterprises
+11,Purchase Of Stock-In Trade,0.00,1603.46,664.69,473.45,289.24,,piramalenterprises
+12,Operating And Direct Expenses,5497.78,0.00,0.00,0.00,0.00,,piramalenterprises
+13,Changes In Inventories Of FGWIP And Stock In Trade,0.00,-6.52,-155.30,-173.82,3.57,,piramalenterprises
+14,Employee Benefit Expenses,930.05,2135.01,1650.47,1610.20,1507.72,,piramalenterprises
+15,Finance Costs,3994.32,4479.87,4208.53,5320.62,4100.26,,piramalenterprises
+16,Depreciation And Amortisation Expenses,122.88,665.78,560.88,520.30,400.52,,piramalenterprises
+17,Other Expenses,1161.91,2181.01,1773.04,3513.90,1998.54,,piramalenterprises
+18,Total Expenses,11551.08,12688.73,10114.51,12641.84,9517.49,,piramalenterprises
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",-2464.34,2024.68,3058.48,917.56,2674.71,,piramalenterprises
+20,Exceptional Items,8066.26,-168.00,58.86,0.00,-452.25,,piramalenterprises
+21,Profit/Loss Before Tax,5601.92,1856.68,3117.34,917.56,2222.46,,piramalenterprises
+22,Tax Expenses-Continued Operations,,,,,,,piramalenterprises
+23,Current Tax,2.69,934.77,377.79,355.81,711.50,,piramalenterprises
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,piramalenterprises
+25,Deferred Tax,-653.53,-423.98,406.83,-152.97,140.72,,piramalenterprises
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,piramalenterprises
+27,Total Tax Expenses,-3978.05,510.79,2042.91,1960.43,852.22,,piramalenterprises
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,9579.97,1345.89,1074.43,-1042.87,1370.24,,piramalenterprises
+29,Profit/Loss From Continuing Operations,9579.97,1345.89,1074.43,-1042.87,1370.24,,piramalenterprises
+30,Profit/Loss For The Period,9579.97,1345.89,1074.43,-468.42,1144.71,,piramalenterprises
+31,Minority Interest,0.00,-75.66,-80.52,2.89,2.97,,piramalenterprises
+32,Consolidated Profit/Loss After MI And Associates,9968.58,1923.11,1332.34,24.03,1467.06,,piramalenterprises
+33,OTHER ADDITIONAL INFORMATION,,,,,,,piramalenterprises
+34,EARNINGS PER SHARE,,,,,,,piramalenterprises
+35,Basic EPS (Rs.),418.00,81.00,56.00,1.00,72.00,,piramalenterprises
+36,Diluted EPS (Rs.),416.00,81.00,56.00,1.00,72.00,,piramalenterprises
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,piramalenterprises
+38,Equity Share Dividend,787.59,787.59,315.75,556.77,451.50,,piramalenterprises
+39,Tax On Dividend,0.00,0.00,0.00,114.45,91.27,,piramalenterprises
+0,Profit & Loss account of Trent (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,trent
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,trent
+2,INCOME,,,,,,,trent
+3,Revenue From Operations [Gross],8799.17,4811.65,2785.51,3744.75,2825.03,,trent
+4,Less: Excise/Sevice Tax/Other Levies,686.84,394.38,238.61,303.44,239.28,,trent
+5,Revenue From Operations [Net],8112.33,4417.27,2546.90,3441.31,2585.75,,trent
+6,Total Operating Revenues,8242.02,4498.02,2592.96,3485.98,2630.24,,trent
+7,Other Income,260.92,175.21,201.60,144.50,40.82,,trent
+8,Total Revenue,8502.94,4673.23,2794.56,3630.48,2671.06,,trent
+9,EXPENSES,,,,,,,trent
+10,Cost Of Materials Consumed,0.00,0.00,0.00,0.00,0.00,,trent
+11,Purchase Of Stock-In Trade,5211.05,2920.38,1371.64,1951.64,1459.67,,trent
+12,Operating And Direct Expenses,0.00,0.00,0.00,0.00,0.00,,trent
+13,Changes In Inventories Of FGWIP And Stock In Trade,-491.31,-438.84,162.36,-69.89,-148.23,,trent
+14,Employee Benefit Expenses,655.23,398.95,301.86,358.52,286.81,,trent
+15,Finance Costs,369.22,304.74,248.65,245.80,36.75,,trent
+16,Depreciation And Amortisation Expenses,493.69,310.82,257.30,247.24,51.67,,trent
+17,Other Expenses,1793.40,1043.66,585.20,701.75,804.27,,trent
+18,Total Expenses,8031.28,4539.71,2927.01,3435.06,2490.94,,trent
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",471.66,133.52,-132.45,195.42,180.12,,trent
+20,Exceptional Items,-3.00,-27.44,-1.01,0.00,0.00,,trent
+21,Profit/Loss Before Tax,468.66,106.08,-133.46,195.42,180.12,,trent
+22,Tax Expenses-Continued Operations,,,,,,,trent
+23,Current Tax,170.44,89.14,0.89,64.50,70.03,,trent
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,trent
+25,Deferred Tax,-11.83,-12.43,-15.97,-2.62,6.29,,trent
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,trent
+27,Total Tax Expenses,158.44,76.62,-23.69,59.01,73.61,,trent
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,310.22,29.46,-109.77,136.41,106.51,,trent
+29,Profit/Loss From Continuing Operations,310.22,29.46,-109.77,136.41,106.49,,trent
+30,Profit/Loss For The Period,310.22,29.46,-109.77,136.41,106.49,,trent
+31,Minority Interest,51.00,71.23,34.96,16.80,2.12,,trent
+32,Consolidated Profit/Loss After MI And Associates,444.69,105.83,-146.17,122.78,96.96,,trent
+33,OTHER ADDITIONAL INFORMATION,,,,,,,trent
+34,EARNINGS PER SHARE,,,,,,,trent
+35,Basic EPS (Rs.),13.00,3.00,-4.00,4.00,3.00,,trent
+36,Diluted EPS (Rs.),13.00,3.00,-4.00,4.00,3.00,,trent
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,trent
+38,Equity Share Dividend,39.10,42.66,35.55,52.08,46.07,,trent
+39,Tax On Dividend,0.00,0.00,0.00,0.00,0.00,,trent
+0,Profit & Loss account of Vedanta (in Rs. Cr.),Mar 23,Mar 22,Mar 21,Mar 20,Mar 19,,vedanta
+1,,12 mths,12 mths,12 mths,12 mths,12 mths,,vedanta
+2,INCOME,,,,,,,vedanta
+3,Revenue From Operations [Gross],145404.00,131192.00,86863.00,83545.00,90901.00,,vedanta
+4,Less: Excise/Sevice Tax/Other Levies,0.00,0.00,0.00,0.00,0.00,,vedanta
+5,Revenue From Operations [Net],145404.00,131192.00,86863.00,83545.00,90901.00,,vedanta
+6,Total Operating Revenues,147308.00,132732.00,88021.00,84447.00,92048.00,,vedanta
+7,Other Income,2851.00,2600.00,3421.00,2510.00,4018.00,,vedanta
+8,Total Revenue,150159.00,135332.00,91442.00,86957.00,96066.00,,vedanta
+9,EXPENSES,,,,,,,vedanta
+10,Cost Of Materials Consumed,44470.00,37172.00,22849.00,21261.00,25490.00,,vedanta
+11,Purchase Of Stock-In Trade,57.00,133.00,41.00,225.00,588.00,,vedanta
+12,Operating And Direct Expenses,30950.00,21164.00,13674.00,16606.00,18144.00,,vedanta
+13,Changes In Inventories Of FGWIP And Stock In Trade,-377.00,-2049.00,792.00,1017.00,72.00,,vedanta
+14,Employee Benefit Expenses,3098.00,2811.00,2861.00,2672.00,3023.00,,vedanta
+15,Finance Costs,6225.00,4797.00,5210.00,4977.00,5689.00,,vedanta
+16,Depreciation And Amortisation Expenses,10555.00,8895.00,7638.00,9093.00,8192.00,,vedanta
+17,Other Expenses,34688.00,28677.00,20486.00,21979.00,21628.00,,vedanta
+18,Total Expenses,129666.00,101600.00,73551.00,77830.00,82826.00,,vedanta
+19,"Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",20493.00,33732.00,17891.00,9127.00,13240.00,,vedanta
+20,Exceptional Items,-217.00,-768.00,-678.00,-17386.00,320.00,,vedanta
+21,Profit/Loss Before Tax,20276.00,32964.00,17213.00,-8259.00,13560.00,,vedanta
+22,Tax Expenses-Continued Operations,,,,,,,vedanta
+23,Current Tax,7624.00,6889.00,2066.00,1788.00,2677.00,,vedanta
+24,Less: MAT Credit Entitlement,0.00,0.00,0.00,0.00,0.00,,vedanta
+25,Deferred Tax,-1854.00,2366.00,268.00,1217.00,1185.00,,vedanta
+26,Other Direct Taxes,0.00,0.00,0.00,0.00,0.00,,vedanta
+27,Total Tax Expenses,5770.00,9255.00,2180.00,-3516.00,3862.00,,vedanta
+28,Profit/Loss After Tax And Before ExtraOrdinary Items,14506.00,23709.00,15033.00,-4743.00,9698.00,,vedanta
+29,Profit/Loss From Continuing Operations,14506.00,23709.00,15033.00,-4743.00,9698.00,,vedanta
+30,Profit/Loss For The Period,14506.00,23709.00,15033.00,-4743.00,9698.00,,vedanta
+31,Minority Interest,-3929.00,-4908.00,-3430.00,-1920.00,-2633.00,,vedanta
+32,Consolidated Profit/Loss After MI And Associates,10574.00,18802.00,11602.00,-6664.00,7065.00,,vedanta
+33,OTHER ADDITIONAL INFORMATION,,,,,,,vedanta
+34,EARNINGS PER SHARE,,,,,,,vedanta
+35,Basic EPS (Rs.),29.00,51.00,31.00,-18.00,19.00,,vedanta
+36,Diluted EPS (Rs.),29.00,51.00,31.00,-18.00,19.00,,vedanta
+37,DIVIDEND AND DIVIDEND PERCENTAGE,,,,,,,vedanta
+38,Equity Share Dividend,37572.00,16681.00,3519.00,1696.00,8411.00,,vedanta
+39,Tax On Dividend,0.00,0.00,0.00,0.00,0.00,,vedanta
