@@ -1,11 +1,11 @@
 import pandas as pd
 from Stock_Performance import Stock_Performance_Metrics as sm
 
-bs = pd.read_csv("Stock_Performance_Document/balance_sheet.csv")
-cfs = pd.read_csv("Stock_Performance_Document/cash_flow.csv")
-gen_stock = pd.read_csv("Stock_Performance_Document/general_performance.csv")
-incs = pd.read_csv("Stock_Performance_Document/income_statement.csv")
-pl = pd.read_csv("Stock_Performance_Document/pnl.csv")
+bs = pd.read_csv("Stock_Performance_Document/Stock_performance/balance_sheet.csv")
+cfs = pd.read_csv("Stock_Performance_Document/Stock_performance/cash_flow.csv")
+gen_stock = pd.read_csv("Stock_Performance_Document/Stock_performance/general_performance.csv")
+incs = pd.read_csv("Stock_Performance_Document/Stock_performance/income_statement.csv")
+pl = pd.read_csv("Stock_Performance_Document/Stock_performance/pnl.csv")
 
 
 

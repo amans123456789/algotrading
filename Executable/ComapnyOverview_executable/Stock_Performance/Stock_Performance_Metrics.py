@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from Stock_Performance import Stock_Performance_Postprocessing as sp
 
 
@@ -35,6 +36,16 @@ def gen_stock_flat(gen_stock,i):
 
     return gen_stock_selected_transpose
 
+def minority_interet_other_income_extraction(s):
+    try:
+        if isinstance(s, str):
+            return s
+        else:
+            return s[0]
+    except:
+        return np.nan
+
+
 def metric_creation(bs,cfs, incs,pl):
     stock_list, financial_fin = sp.cleaning_func(bs, pl, cfs, incs)
     fin, missing = sp.final_dataframe(stock_list, financial_fin)
@@ -67,6 +78,9 @@ def metric_creation(bs,cfs, incs,pl):
 
     # fin = fin.dropna()
 
+    fin['Minority Interest Balance Sheet'] = fin['Minority Interest'].apply(minority_interet_other_income_extraction)
+    fin["Other Income PnL"] = fin['Other Income'].apply(minority_interet_other_income_extraction)
+
     # fin = fin[fin['Minority Interest'].str.strip() != '']
     #
     # fin = fin.reset_index(drop=True)
@@ -82,8 +96,8 @@ def metric_creation(bs,cfs, incs,pl):
     #     except:
     #         fin['Other Income PnL'][i] = fin['Other Income'][i]
     ####################################################################################################################
-    fin['Minority Interest Balance Sheet'] = -1
-    fin['Other Income PnL'] = -1
+    # fin['Minority Interest Balance Sheet'] = -1
+    # fin['Other Income PnL'] = -1
 
     ####################################################################################################################
 
@@ -116,8 +130,8 @@ def gen_stock_metric(gen_stock, bs, cfs, incs, pl):
     merged["BookToMkt"] = merged["Total Shareholders Funds"].astype("float") / merged["Mkt Cap (Rs. Cr.)"].astype(
         "float")
     merged["Net Debt"] = fin["Long Term Borrowings"].astype("float") - fin["Cash And Cash Equivalents"].astype("float")
-    merged["TEV"] = merged["Mkt Cap (Rs. Cr.)"].astype("float") + merged["Net Debt"].astype("float") + merged[
-        "Minority Interest Balance Sheet"].astype("float")
+    merged["TEV"] = merged["Mkt Cap (Rs. Cr.)"].astype("float") + merged["Net Debt"].astype("float") +\
+                    pd.to_numeric(merged["Minority Interest Balance Sheet"], errors='coerce')
 
     merged["EarningYield"] = merged["EBIT"].astype('float') / merged["TEV"].astype('float')
 
