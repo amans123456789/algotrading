@@ -1,0 +1,14 @@
+requests
+bs4
+pandas
+lxml
+html5lib
+yfinance
+timedelta
+torch
+transformers
+torch-utils
+spacy
+Docker
+fastapi
+cached_path
