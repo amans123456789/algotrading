@@ -25,12 +25,10 @@ def run_stock_performance(config):
         try:
             if config["tickers"][i] in config["ticker_alternate"]:
 
-                df = pd.DataFrame()
                 df = inc_statement_alternate(config["tickers"][i], config["ti"][i])
                 df["Stock"] = config["tickers"][i]
                 fin.append(df)
             else:
-                df = pd.DataFrame()
                 df = inc_statement(config["tickers"][i], config["ti"][i])
                 df["Stock"] = config["tickers"][i]
                 fin.append(df)
