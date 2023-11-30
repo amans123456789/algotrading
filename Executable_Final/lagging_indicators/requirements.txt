@@ -1,0 +1,9 @@
+bs4
+pandas
+yfinance
+timedelta
+Docker
+fastapi
+uvicorn
+pyyaml
+black
