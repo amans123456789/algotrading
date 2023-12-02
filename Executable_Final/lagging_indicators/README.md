@@ -55,19 +55,86 @@ How to use Indicators?
          Conversely, the wider apart the bands move, the more likely the chance of a decrease in volatility and the 
          greater the possibility of exiting a trade. These conditions are not trading signals. The bands do not indicate
          when the change may take place or in which direction the price could move.
+3. MACD: source - https://www.investopedia.com/articles/forex/05/macddiverge.asp#:~:text=Moving%20average%20convergence%20divergence%20is,and%20exit%20points%20for%20trades.
+         Moving average convergence divergence is a trend-following momentum indicator that shows the relationship 
+         between two moving averages of a security’s price.
+         Traders use the MACD to identify when bullish or bearish momentum is high to identify entry and exit points for
+         trades. There are a number of MACD strategies including the histogram, the crossover, the zero-cross, the money
+         flow index, and the relative vigor index. One of the biggest risks of using a MACD is that a reversal signal 
+         can be a false indicator.
+         Traders can combine RSI, MACD and SMA (Simple Moving Average) - Determine future price changes using the RSI
+         Show how strong a trend is and where it's headed using the MACD.
+         Use the SMA as a lagging trend-following indicator.
+         One of the most significant risks is that a reversal signal can be a false indicator. MACD does not function 
+         well in sideways markets. If prices generally move to the side when they stay within a range between support 
+         and resistance. MACD tends to drift toward the zero line because there is no up or down trend—where the moving 
+         average works best.
+
+4. ATR: source - https://www.investopedia.com/terms/a/atr.asp#:~:text=The%20average%20true%20range%20(ATR)%20is%20a%20technical%20analysis%20indicator,asset%20price%20for%20that%20period.
+         The average true range (ATR) is a market volatility indicator used in technical analysis. It is typically 
+         derived from the 14-day simple moving average of a series of true range indicators.
+         The ATR may be used by market technicians to enter and exit trades and is a useful tool to add to a trading 
+         system. It was created to allow traders to more accurately measure the daily volatility of an asset by using 
+         simple calculations. The indicator does not indicate the price direction; instead, it is used primarily to 
+         measure volatility caused by gaps and limit up or down moves. 
+         For eg. The chandelier exit places a trailing stop under the highest high the stock has reached since you 
+         entered the trade. The distance between the highest high and the stop level is defined as some multiple 
+         multiplied by the ATR.
+
+5. ADX: source - https://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp
+         it is often hard to see when price moves from trend to range conditions. ADX shows when the trend has weakened 
+         and is entering a period of range consolidation. Range conditions exist when ADX drops from above 25 to below 
+         25 In a range, the trend is sideways, and there is general price agreement between the buyers and sellers.
+
+         ADX gives great strategy signals when combined with price. First, use ADX to determine whether prices are 
+         trending or non-trending, and then choose the appropriate trading strategy for the condition. In trending 
+         conditions, entries are made on pullbacks and taken in the direction of the trend. In range conditions, 
+         trend-trading strategies are not appropriate. However, trades can be made on reversals at support (long) and 
+         resistance (short)
+6. Stochastic oscillator: source - https://www.investopedia.com/terms/s/stochasticoscillator.asp
+         https://www.alpharithms.com/stochastic-oscillator-in-python-483214/
+         A stochastic oscillator is a popular technical indicator for generating overbought and oversold signals
+         Stochastic oscillators tend to vary around some mean price level since they rely on an asset's price history
+         Stochastic oscillators measure the momentum of an asset's price to determine trends and predict reversals
+         Stochastic oscillators measure recent prices on a scale of 0 to 100, with measurements above 80 indicating that
+         an asset is overbought and measurements below 20 indicating that it is oversold. very strong trends can maintain
+         overbought or oversold conditions for an extended period. Instead, traders should look to changes in the 
+         stochastic oscillator for clues about future trend shift
+         the RSI was designed to measure the speed of price movements, while the stochastic oscillator formula works 
+         best in consistent trading ranges.
+
 What I did ?
 
 RSI: (trend_functions.py) -  if RSI is above upper_limit, it is termed as Overbought else if it is below a lower limit, 
 it is termed as Oversold.
 Bollinger Band: if Open price is above Upper Bollinger, it is termed as Overbought else if it is below Lower Bollinger, 
 it is termed as Oversold.
+MACD: Cross-over strategy used in code
+ATR: A user defined multiplier is taken and if the closing price is more than opening price + multiplier times ATR or 
+It is marked as bullish, similar for bearish.
+ADX: If, di+ > di- , adx is rising and adx is above threshold than marked as bullish (logic of adx rising removed)
+Stochastic Oscillator: if %k > %d and %k < overbought_threshold, it is labelled bullish signal
+if %k < %d and %k > oversold_threshold, it is labelled bearish signal
 
 Additional Ideas:
 RSI: Write Bullish and Bearish reversal indicator using RSI as explained in description of RSI above
      Write Bullish and Bearish momentum indicator using RSI as explained in description of RSI above
      Note: More functions on RSI written in "TimeSeries_features_on_clustered_stock_data" notebook for future use
 Bollinger Band: Add the concept of squeeze with bollinger bands
+MACD: Can try using other (zero-cross etc) MACD approaches
+ADX : Add the logic of adx volatility - ADX Value	Trend Strength
+0-25	Absent or Weak Trend
+25-50	Strong Trend
+50-75	Very Strong Trend
+75-100	Extremely Strong Trend
+Stochastic Oscilator:
+Divergence between the stochastic oscillator and trending price action is also seen as an important reversal signal.
+For example, when a bearish trend reaches a new lower low, but the oscillator prints a higher low, it may be an indicator that bears are exhausting their momentum and a bullish reversal is brewing.
 
 Shortcomings of current iteration:
 1. RSI looks only for overbought and oversold
 2. Bollinger Band's squeeze concept can be added, however, squeeze is not a direct trading signal
+3. Didn't explore combining MACD with other indicators. 
+4. ADX is to be combined with price movement. ADX can tell when price breakout is strong and can sustain (read source link )
+5. It can give false signals, to improve signals, add the condition that price trend are in same direction as the 
+oscillator's signal

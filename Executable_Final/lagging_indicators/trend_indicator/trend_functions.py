@@ -94,11 +94,17 @@ def adx_trend(df, adx_threshold):
 
     df["ADX_Signal"] = np.where(
         (df["di+"] > df["di-"])
-        & ((df["adx"] > df["adx"].shift(1)) & (df["adx"] > adx_threshold)),
+        # & ((df["adx"] > df["adx"].shift(1))
+           & (df["adx"] > adx_threshold)
+        # )\
+        ,
         "Bullish Trend",
         np.where(
             (df["di-"] > df["di+"])
-            & ((df["adx"] > df["adx"].shift(1)) & (df["adx"] > adx_threshold)),
+            # & ((df["adx"] > df["adx"].shift(1))
+               & (df["adx"] > adx_threshold)
+            # )
+            ,
             "Bearish Trend",
             "Hold",
         ),
