@@ -15,6 +15,10 @@ import indicators.stock_indicator_calculation as sic
 import trend_indicator.trend_indicator_calculation as tic
 import strength_indicator.strength_calculation as sc
 
+
+import pandas as pd
+
+
 end_date = datetime.now()
 n = 5
 # end_date = datetime.now()
@@ -33,18 +37,32 @@ st_one_min = sic.trend_calculation(hourly_data)
 
 st_last_date_daily = sic.time_series_last_date(st_daily)
 st_last_date_one_min = sic.time_series_last_date(st_one_min)
-
+###################
 vix_df = sic.VIX()
+###################
 
+#### Strength Functions
 
-hourly_strength_calc = sc.strength_calculation(hourly_data)
-daily_strength_calc = sc.strength_calculation(daily_data)
+hourly_data = pd.read_csv("./time_series_data/trend_indicator_data/st_one_min.csv")
+daily_data = pd.read_csv("./time_series_data/trend_indicator_data/st_daily.csv")
+
+hourly_strength_calc = sc.strength_calculation(hourly_data, 70, 30)
+daily_strength_calc = sc.strength_calculation(daily_data, 70, 30)
+
+# hourly_strength_calc.to_csv("time_series_data/trend_data/hourly_strength_calc.csv")
+# daily_strength_calc.to_csv("time_series_data/trend_data/daily_strength_calc.csv")
+
+#### Trend Function
 
 
 hourly_trend_calc = tic.trend_calculation(hourly_data)
 daily_trend_calc = tic.trend_calculation(daily_data)
 
+print(daily_trend_calc)
+# hourly_trend_calc.to_csv("time_series_data/trend_data/hourly_trend_calc.csv")
+# daily_trend_calc.to_csv("time_series_data/trend_data/daily_trend_calc.csv")
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print("na")
+
+
+
+

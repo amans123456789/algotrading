@@ -1,9 +1,9 @@
 import pandas as pd
 import yfinance as yf
 import numpy as np
-
-hourly_data = pd.read_csv("./time_series_data/trend_indicator_data/st_one_min.csv")
-daily_data = pd.read_csv("./time_series_data/trend_indicator_data/st_daily.csv")
+#
+# hourly_data = pd.read_csv("./time_series_data/trend_indicator_data/st_one_min.csv")
+# daily_data = pd.read_csv("./time_series_data/trend_indicator_data/st_daily.csv")
 
 ### Signals : created_feature, rolling_mean, rsi, bollinger,  macd,atr, adx, vix, stochastic_oscillator, fibonacci_levels
 
@@ -36,11 +36,6 @@ def rolling_mean_trend(df, short_term, long_term):
 
     return df["RM Signal"]
 
-
-
-
-
-
     # df["Bullish_Bollinger"] = (df["Open"] > df["UB"]).astype(int)
     # df["Bearish_Bollinger"] = (df["Open"] < df["LB"]).astype(int)
 
@@ -51,7 +46,6 @@ def macd_trend(df):
     ls = []
     # df = df[df["Stock"] == stock]
     # df = df.copy()
-
     n = len(df)
 
     for i in range(1, n):
@@ -87,9 +81,6 @@ def atr_trend(df,  multiplier):
 
 
 def adx_trend(df, adx_threshold):
-    # df = df[df["Stock"] == stock]
-    # df = df.copy()
-
     df["ADX_Signal"] = "Hold"
 
     df["ADX_Signal"] = np.where(
