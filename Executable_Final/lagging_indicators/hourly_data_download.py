@@ -18,10 +18,3 @@ def hourly_data(end_date, n, configuration = config):
 
     return hour_data
 
-# hour_data = hourly_data(end_date, n, configuration = config)
-
-
-# hour_data.to_csv("time_series_data/hour_data.csv")
-# with open(file_path, "wb") as file:
-#     pickle.dump(hour_data, file)
-# print(hourly_data(end_date, n, configuration = config))

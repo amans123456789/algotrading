@@ -1,0 +1,10 @@
+requests
+bs4
+pandas
+lxml
+html5lib
+yfinance
+timedelta
+Docker
+fastapi
+uvicorn

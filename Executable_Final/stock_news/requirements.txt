@@ -1,0 +1,17 @@
+BS4
+requests
+pandas
+pyyaml
+black
+your_package==1.0
+eng_spacysentiment
+en-core-web-sm == 3.7.1
+fastapi
+uvicorn
+transformers==4.30.2
+peft==0.4.0
+sentencepiece
+accelerate
+torch
+datasets
+bitsandbytes

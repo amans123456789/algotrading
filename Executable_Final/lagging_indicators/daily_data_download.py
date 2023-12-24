@@ -18,12 +18,3 @@ def daily_download(end_date, n_daily, configuration = config):
     data_day = data_day.reset_index()
 
     return data_day
-
-# daily_data = daily_download(end_date, n_daily, configuration = config)
-
-
-
-# daily_data.to_csv("time_series_data/daily_data.csv")
-# with open(file_path, "wb") as file:
-#     pickle.dump(daily_data, file)
-# print(daily_download(end_date, 30, configuration = config))
