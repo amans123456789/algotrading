@@ -1,0 +1,5 @@
+venv/
+ner_data/
+news_data/
+sentiment_data/
+*.pyc

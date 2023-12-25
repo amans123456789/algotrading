@@ -1,0 +1,9 @@
+BS4
+requests
+pandas
+pyyaml
+black
+your_package==1.0
+fastapi
+uvicorn
+en_core_web_sm

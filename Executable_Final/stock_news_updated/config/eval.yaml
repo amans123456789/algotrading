@@ -1,0 +1,35 @@
+stock_url :
+  news : "https://www.moneycontrol.com/news/"
+  buss_news1 : "https://www.moneycontrol.com/news/business/"
+  buss_news2 : "https://www.moneycontrol.com/news/business/page-2/"
+  buss_news3: "https://www.moneycontrol.com/news/business/page-3/"
+  economy_news1 : "https://www.moneycontrol.com/news/business/economy/"
+  economy_news2: "https://www.moneycontrol.com/news/business/economy/page-2/"
+  economy_news3: "https://www.moneycontrol.com/news/business/economy/page-3/"
+  company_news1: "https://www.moneycontrol.com/news/tags/companies.html"
+  company_news2: "https://www.moneycontrol.com/news/tags/companies.html/page-2/"
+  company_news3: "https://www.moneycontrol.com/news/tags/companies.html/page-3/"
+  startup_news1: "https://www.moneycontrol.com/news/business/startups/"
+  startup_news2: "https://www.moneycontrol.com/news/business/startups/page-2/"
+  startup_news3: "https://www.moneycontrol.com/news/business/startups/page-3/"
+  india_news1: "https://www.moneycontrol.com/news/india/"
+  india_news2: "https://www.moneycontrol.com/news/india/page-2/"
+  india_news3: "https://www.moneycontrol.com/news/india/page-3/"
+  world_news1: "https://www.moneycontrol.com/news/world/"
+  world_news2: "https://www.moneycontrol.com/news/world/page-2/"
+  world_news3: "https://www.moneycontrol.com/news/world/page-3/"
+  stock_news1: "https://www.moneycontrol.com/news/business/markets/"
+  stock_news2: "https://www.moneycontrol.com/news/business/markets/page-2/"
+  stock_news3: "https://www.moneycontrol.com/news/business/markets/page-3/"
+  technical_analysis_news1: "https://www.moneycontrol.com/news/tags/technical-analysis.html"
+  technical_analysis_news2: "https://www.moneycontrol.com/news/tags/technical-analysis.html/page-2/"
+  technical_analysis_news3: "https://www.moneycontrol.com/news/tags/technical-analysis.html/page-3/"
+  politics: "https://www.moneycontrol.com/news/politics/"
+
+
+stock_keywords : [ "sensex", "nifty","India", "attack", "war","crash", "scam", "fraud","Vijaya",
+  "pnb", "punjab national","abb" , "acc", "au" , "aarti", "abbott","adani", "economic zone","birla", "aditya birla","alkem",
+  "ambuja", "apollo hospital","apollo tyre", "ashok", "asian painsts", "astral", "atul", "aurobindo", "axis","axis bank",
+  "bajaj auto", "bajaj fin" , "bajaj finance", "bajaj finserv" ,"balkrishna", "balrampur", "bandhan", "bandhan bank",
+  "bank of baroda", "bob", "bata", "berger paints","berger", "bharat electronics", "bharat forge","bharat heavy electrical",
+  "bharat petro", "airtel", "biocon", "birla soft", "birlasoft" ]
