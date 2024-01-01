@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c685bcf0-415a-45fa-8a10-f27538d9d53f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompt/llama_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/response_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Analysis_Notebook/Stock_MagicFormula_Money_Control_final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Analysis_Notebook/Stock_MagicFormula_Money_Control_final.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Analysis_Notebook/Stock_News_Money_Control_final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Analysis_Notebook/Stock_News_Money_Control_final.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Analysis_Notebook/Time_Series_Trends.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Analysis_Notebook/Time_Series_Trends.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_news/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_news/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/stock_news_llama.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stock_news_llama.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llama/llama/generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/llama/llama/generation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_news_updated/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_news_updated/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_news_updated/.idea/stock_news_updated.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_news_updated/.idea/stock_news_updated.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2a1SNs1A1KUIgiCGuK5VhJ4Ucno" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Asehgal/Algo_Trade_Executables/algotrading/Executable_Final/stock_news_updated"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asehgal\Algo_Trade_Executables\algotrading\Executable_Final\stock_news_llama\questions_data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="stock_news_llama" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c685bcf0-415a-45fa-8a10-f27538d9d53f" name="Changes" comment="" />
+      <created>1703484554533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703484554533</updated>
+    </task>
+    <servers />
+  </component>
+</project>

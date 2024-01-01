@@ -31,13 +31,13 @@ def time_series_last_date(st):
     return st_last_date
 
 
-def VIX():
-    vix_ticker = yf.Ticker("^VIX")
-    today = datetime.now().strftime("%Y-%m-%d")
-    today = datetime.strptime(today, "%Y-%m-%d")
-
-    start_date = today - timedelta(days=1)
-    start_date_str = start_date.strftime("%Y-%m-%d")
-    vix_data = vix_ticker.history(start=start_date_str, end=today)
-
-    return vix_data
+# def VIX():
+#     vix_ticker = yf.Ticker("^VIX")
+#     today = datetime.now().strftime("%Y-%m-%d")
+#     today = datetime.strptime(today, "%Y-%m-%d")
+#
+#     start_date = today - timedelta(days=1)
+#     start_date_str = start_date.strftime("%Y-%m-%d")
+#     vix_data = vix_ticker.history(start=start_date_str, end=today)
+#
+#     return vix_data

@@ -28,7 +28,7 @@ if __name__ == "__main__":
     st_last_date_daily = sic.time_series_last_date(st_daily)
     st_last_date_one_min = sic.time_series_last_date(st_one_min)
     ###################
-    vix_df = sic.VIX()
+    # vix_df = sic.VIX()
     ###################
 
     #### Strength Functions
@@ -48,4 +48,4 @@ if __name__ == "__main__":
     st_last_date_daily.to_csv("time_series_data/final_data/st_last_date_daily.csv")
     st_last_date_one_min.to_csv("time_series_data/final_data/st_last_date_one_min.csv")
 
-    vix_df.to_csv("time_series_data/final_data/vix_df.csv")
+    # vix_df.to_csv("time_series_data/final_data/vix_df.csv")
