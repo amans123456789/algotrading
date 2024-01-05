@@ -1,4 +1,6 @@
 import numpy as np
+import logging
+logging.basicConfig(level=logging.INFO)
 
 
 ### Market features - Sensex , Vix etc
