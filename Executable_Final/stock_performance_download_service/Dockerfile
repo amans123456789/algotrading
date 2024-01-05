@@ -12,6 +12,9 @@ RUN echo "Debugging: Installing dependencies from requirements.txt"
 # RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install -r requirements.txt
 
+# # Create a directory for CSV files inside the container
+# RUN mkdir /app/Stock_Performance_Document2
+
 # Copy the FastAPI application code into the container at /app
 COPY . /app/
 
@@ -25,3 +28,4 @@ EXPOSE 8000
 CMD ["uvicorn", "service:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
 
 # CMD ["uvicorn", "service:app", "--reload"]
+

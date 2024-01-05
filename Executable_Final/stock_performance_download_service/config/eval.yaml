@@ -1,10 +1,9 @@
+#
+ticker_alternate : ['abbottindia' ,'bandhanbank'  ,'canfinhomes','cityunionbank','icicilombardgeneralinsurancecompany','irctc-indianrailwaycateringtourismcorp',
+ 'mahanagargas', 'nestleindia', 'sbicardspaymentservices', 'sbilifeinsurancecompany', 'ausmallfinancebank','abbindia',
+  'hdfcassetmanagementcompany', 'pageindustries']
 
-ticker_alternate : ['abbottindia' ,'bandhanbank','canfinhomes','cityunionbank','icicilombardgeneralinsurancecompany','irctc-indianrailwaycateringtourismcorp',
- 'mahanagargas', 'nestleindia','pageindustries', 'sbicardspaymentservices', 'sbilifeinsurancecompany', 'ausmallfinancebank','abbindia','abbottindia','canfinhomes',
-  'hdfcassetmanagementcompany','icicilombardgeneralinsurancecompany'  , 'irctc-indianrailwaycateringtourismcorp',
-                   'mahanagargas','nestleindia','pageindustries','sbicardspaymentservices','sbilifeinsurancecompany']
-
-tickers_NS : [ "ABB.NS", "ACC.NS","AUBANK.NS","AARTIIND.NS","ABBOTINDIA.NS",
+tickers_NS : [ "ABB.NS", "ACC.NS" ,"AUBANK.NS","AARTIIND.NS","ABBOTINDIA.NS",
           "ADANIENT.NS","ADANIPORTS.NS","ABCAPITAL.NS",
           "ABFRL.NS","ALKEM.NS", "AMBUJACEM.NS", "APOLLOHOSP.NS", "APOLLOTYRE.NS",
           "ASHOKLEY.NS","ASIANPAINT.NS","ASTRAL.NS","ATUL.NS","AUROPHARMA.NS","AXISBANK.NS",
@@ -31,7 +30,7 @@ tickers_NS : [ "ABB.NS", "ACC.NS","AUBANK.NS","AARTIIND.NS","ABBOTINDIA.NS",
           "VEDL.NS","IDEA.NS","VOLTAS.NS","WIPRO.NS","ZEEL.NS","ZYDUSLIFE.NS"]
 
 
-tickers : [ "abbindia", "acc","ausmallfinancebank","aartiindustries","abbottindia",
+tickers : [ "abbindia", "acc"  ,"ausmallfinancebank","aartiindustries","abbottindia",
           "adanienterprises","adaniportsspecialeconomiczone","adityabirlacapital",
           "adityabirlafashionretail","alkemlaboratories", "ambujacements", "apollohospitalsenterprises", "apollotyres",
           "ashokleyland","asianpaints","astrallimited","atul","aurobindopharma","axisbank",
@@ -57,7 +56,7 @@ tickers : [ "abbindia", "acc","ausmallfinancebank","aartiindustries","abbottindi
           "tatamotors", "thetatapowercompany","tatasteel","techmahindra","theramcocements","titancompany","torrentpharmaceuticals","trent", "upl","ultratechcement","unitedbreweries","unitedspirits",
           "vedanta","vodafoneidealimited","voltas","wipro","zeeentertainmententerprises","zyduslifesciences"]
 
-ti : [ "ABB", "ACC06","ASF02","AI45","AI51","AE13","MPS","ABC9","PFR","AL05","AC18","AHE" ,"AT14",
+ti : [ "ABB", "ACC06"  ,"ASF02","AI45","AI51","AE13","MPS","ABC9","PFR","AL05","AC18","AHE" ,"AT14",
      "AL","AP31","APT02","A06","AP","AB16","BA10","BAF","BF04","BI03","BCM","BB09","BOB","BI01",
      "BPI02","BE03","BF03","BHE","BPC","BA08","BL03","KPI02","B05","BI","CFH","CB06","CFC","CDB",
      "C","CUB","CI11","NII02","CPI","CCI","CI45","CGC01","CI02","D04","DI","OCL","DN","DC11","DL03",
