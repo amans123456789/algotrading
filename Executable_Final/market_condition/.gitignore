@@ -1,2 +1,3 @@
 venv/
 market_data/
+*.pyc
