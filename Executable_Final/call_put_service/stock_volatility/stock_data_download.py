@@ -7,12 +7,11 @@ import os
 
 # Configure the logging module
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+logger = logging.getLogger()
 
-def daily_download(directory_name, n_daily, end_date=None,  configuration=config):
+def daily_download(directory_name, n_daily, end_date,  configuration=config):
     data_day = []
-    if end_date is None:
-        end_date = datetime.today().strftime('%Y-%m-%d')
+
 
     logger.info(f"Creating call_put data for date {end_date} in directory {directory_name}")
 
@@ -22,8 +21,8 @@ def daily_download(directory_name, n_daily, end_date=None,  configuration=config
     file_path = os.path.join(directory_name, csv_filename)
     if not os.path.exists(file_path):
 
-        # start_date = end_date - timedelta(days=n_daily)
-        start_date = (datetime.strptime(end_date, '%Y-%m-%d') - timedelta(days=n_daily)).strftime('%Y-%m-%d')
+        start_date = end_date - timedelta(days=n_daily)
+        # start_date = (datetime.strptime(end_date, '%Y-%m-%d') - timedelta(days=n_daily)).strftime('%Y-%m-%d')
         logger.info(f"Downloading data from {start_date} to {end_date} for tickers: {configuration['tickers_NS']}")
 
         for ticker in configuration["tickers_NS"]:

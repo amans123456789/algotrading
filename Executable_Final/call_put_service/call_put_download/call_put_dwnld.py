@@ -10,6 +10,10 @@ def call_put(ticker, date):
     print(url)
 
     df = pd.read_html(requests.post(url).text)[0]
+    if df.empty:
+        print(f"No data available for the given date ({date}). Try another date.")
+        return None  # or you can return an empty DataFrame or handle it based on your needs
+
 
     return df
 

@@ -2,6 +2,9 @@ from stock_volatility.stock_data_download import daily_download
 import pandas as pd
 import numpy as np
 import statistics
+import logging
+
+logging.basicConfig(level=logging.INFO)
 
 # Source: https://medium.com/@polanitzer/volatility-calculation-in-python-estimate-the-annualized-volatility-of-historical-stock-prices-db937366a54d
 # n_daily = 365
@@ -15,10 +18,14 @@ def volatility(daily_data):
     daily['Price relative'] = ""
     for i in range(1, len(daily.Date)):
         daily['Price relative'][i] = daily['Adj Close'][i] / daily['Adj Close'][i - 1]
+    # daily['Price relative'] = (daily['Adj Close'] / daily['Adj Close'].shift(1))
+    # daily['Price relative'].iloc[0] = np.nan
     daily['Daily Return'] = ""
 
     for i in range(1, len(daily.Date)):
         daily['Daily Return'][i] = np.log(daily['Adj Close'][i] / daily['Adj Close'][i - 1])
+    # daily['Daily Return'] = np.log(daily['Adj Close'] / daily['Adj Close'].shift(1))
+    # daily['Daily Return'].iloc[0] = np.nan
 
     DailyVolatility = statistics.stdev(daily['Daily Return'][1:])
     AnnualizedDailyVolatilityTradingDays  = DailyVolatility*np.sqrt(252)
@@ -44,8 +51,12 @@ def calculate_volatility_for_each_stock(dataframe, stck):
             'Daily Volatility': daily_volatility,
             'Annualized Daily Volatility (252 Trading Days)': annualized_volatility
         }
+    logging.info("Volatility calculation results:")
+    for stock, values in result_dict.items():
+        logging.info(f"Stock: {stock}, Daily Volatility: {values['Daily Volatility']}, Annualized Daily Volatility: {values['Annualized Daily Volatility (252 Trading Days)']}")
 
     # return stck
+
     return result_dict
 
 # res = volatility(daily_data)

@@ -27,6 +27,11 @@ def call_put_data_creation(directory_name, dt, config=config):
         for i in config["ti"]:
             logger.info(f"Retrieving call_put data for stock {i} and date {dt}")
             df = call_put(i, dt)
+
+            if df is None:
+                logger.info(f"No data available for stock {i} and date {dt}. Skipping.")
+                return None
+
             df["Stock"] = i
             fin.append(df)
         call_put_data = pd.concat(fin)

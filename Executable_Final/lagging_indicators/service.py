@@ -12,7 +12,6 @@ app = FastAPI()
 
 from typing import Union
 from typing_extensions import Annotated
-
 from fastapi.responses import JSONResponse
 
 # Source: https://fastapi.tiangolo.com/tutorial/extra-data-types/#__tabbed_2_3

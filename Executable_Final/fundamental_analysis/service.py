@@ -1,8 +1,17 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Body, HTTPException
 from calculations import fin_cal
+import logging
+from typing_extensions import Annotated
+from typing import Union
+from datetime import date, datetime, time, timedelta
+
+logging.basicConfig(level=logging.INFO)
 
 app = FastAPI()
 
-@app.get("/fundamental_analysis")
-async def stock_performance_service():
-    return fin_cal()
+@app.post("/fundamental_analysis")
+async def stock_performance_service( year: Annotated[Union[str, None], Body()] = "23",):
+
+    logging.info(f"Received end_date: {year}")
+
+    fin_cal(year)

@@ -1,6 +1,8 @@
 import pandas as pd
+import logging
 
 
+logging.basicConfig(level=logging.INFO)
 
 def rename_col(df):
     if df.shape[1] > 8:
@@ -32,6 +34,16 @@ def operation(financial_fin, st, year):
     financial_fin_st_T_selected = financial_fin_st_T[financial_fin_st_T.iloc[:, 0].str.contains(year)]
     financial_fin_st_T_selected.reset_index(drop=True)
     financial_fin_st_T_selected["Year"] = year
+    ####
+    # if year not in financial_fin_st_T_selected['Year'].unique():
+    #     latest_date = financial_fin_st_T_selected['Year'].max()
+    #     logging.info(
+    #         f"The given year ({year}) is not present in the DataFrame. Exiting and logging the latest date available: {latest_date}")
+    #     return
+    # else:
+    #     financial_fin_st_T_selected["Year"] = year
+
+    ####
     for i in ["Year", "Total Assets", "Stock", "Minority Interest", "Net CashFlow From Operating Activities",
               "Total Shareholders Funds", "Total Current Assets", "Cash And Cash Equivalents", "Current Investments",
               "Total Current Liabilities"
@@ -64,7 +76,7 @@ def calc(df, stock_list, year):
     fin = pd.DataFrame()
     missing = []
     for i in stock_list:
-        print(i)
+        # print(i)
         try:
             res = stock_df_creation(df, i, year)
             fin = pd.concat([fin, res])

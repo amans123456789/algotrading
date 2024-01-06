@@ -49,5 +49,4 @@ def download_func(end_date, n, n_daily):
 
     except Exception as e:
         logging.error(f"An error occurred in download_func: {str(e)}", exc_info=True)
-        raise HTTPException(status_code=500, detail=f"Internal Server Error: {str(e)}")
 
