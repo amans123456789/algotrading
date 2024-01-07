@@ -20,7 +20,13 @@ def daily_data(mkt_symb,start_date, end_date):
         if not check:
 
             res = market_data(mkt_symb,"daily",start_date, end_date)
+            if res is None or res.empty:
+                logging.error("No market data available for the given dates.")
+                return
             vx = VIX("daily",start_date, end_date)
+            if vx is None or vx.empty:
+                logging.error("No vx market data available for the given dates.")
+                return
             fin = pd.merge(vx, res, on='Date')
             fin.to_csv(daily_filename)
 
@@ -31,7 +37,8 @@ def daily_data(mkt_symb,start_date, end_date):
 
             return fin
     except Exception as e:
-        logging.error(f"An error occurred in download_func: {str(e)}", exc_info=True)
+        logging.error(f"An error occurred in daily_data: {str(e)}", exc_info=True)
+        return None
 
 
 def minute_data(mkt_symb,start_date, end_date):
@@ -48,7 +55,13 @@ def minute_data(mkt_symb,start_date, end_date):
         if not check:
 
             res = market_data(mkt_symb,"minute",start_date, end_date)
+            if res is None or res.empty:
+                logging.error("No minute wise market data available for the given dates.")
+                return
             vx = VIX("minute",start_date, end_date)
+            if vx is None or vx.empty:
+                logging.error("No minute wise vx market data available for the given dates.")
+                return
             fin = pd.merge(vx, res, on=['Date','Time'])
             fin.to_csv(minute_filename)
 
@@ -59,4 +72,5 @@ def minute_data(mkt_symb,start_date, end_date):
             fin = pd.read_csv(minute_filename)
             return fin
     except Exception as e:
-        logging.error(f"An error occurred in download_func: {str(e)}", exc_info=True)
+        logging.error(f"An error occurred in minute_data: {str(e)}", exc_info=True)
+        return None
