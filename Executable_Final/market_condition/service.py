@@ -17,8 +17,8 @@ from typing_extensions import Annotated
 
 @app.post("/download_market_data")
 async def stock_download_service(
-        n: Annotated[Union[int, None], Body()] = 5,
-        n_daily: Annotated[Union[int, None], Body()] = 30,
+        n: Annotated[Union[int, None], Body()] = 2,
+        n_daily: Annotated[Union[int, None], Body()] = 240,
         end_date: Annotated[Union[date, None], Body()] = None
 ):
     start_date_n = end_date - timedelta(days=n)
@@ -56,18 +56,20 @@ async def stock_download_service(
 @app.post("/indicator_function")
 async def stock_indicator_service(
     end_date: Annotated[Union[date, None], Body()] = None,
-    n: Annotated[Union[int, None], Body()] = 5,
-    n_daily: Annotated[Union[int, None], Body()] = 30,
+    n: Annotated[Union[int, None], Body()] = 2,
+    n_daily: Annotated[Union[int, None], Body()] = 240,
 ):
     end_date = end_date or datetime.now()
     logging.info(f"Received end_date: {end_date}")
     indicator_func(end_date, n, n_daily)
+    # indicator_func(end_date)
+
 
 @app.post("/trend_strength_function")
 async def stock_trend_strength_service(
     end_date: Annotated[Union[date, None], Body()] = None,
-    n: Annotated[Union[int, None], Body()] = 5,
-    n_daily: Annotated[Union[int, None], Body()] = 30,
+    n: Annotated[Union[int, None], Body()] = 2,
+    n_daily: Annotated[Union[int, None], Body()] = 240,
 ):
     end_date = end_date or datetime.now()
     logging.info(f"Received end_date: {end_date}")

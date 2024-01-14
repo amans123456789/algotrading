@@ -8,6 +8,7 @@ logging.basicConfig(level=logging.INFO)
 
 
 def indicator_func(end_date, n, n_daily):
+# def indicator_func(end_date):
     try:
 
         folder_name = end_date.strftime('%Y-%m-%d')
@@ -19,8 +20,11 @@ def indicator_func(end_date, n, n_daily):
         daily_indicator_filename = os.path.join(new_folder_path, "daily_indicator{}.csv".format(folder_name))
         hourly_indicator_filename = os.path.join(new_folder_path, "hourly_indicator{}.csv".format(folder_name))
 
-        daily_indicator_lastdate = os.path.join(new_folder_path, "stlast_daily_indicator{}.csv".format(folder_name))
-        hourly_indicator_lastdate = os.path.join(new_folder_path, "stlast_hourly_indicator{}.csv".format(folder_name))
+        daily_indicator_lastdate = os.path.join(new_folder_path, "last_day_fibonacci_market_indicator{}.csv".format(folder_name))
+        hourly_indicator_lastdate = os.path.join(new_folder_path, "last_hour_fibonacci_market_indicator{}.csv".format(folder_name))
+
+        # daily_indicator_lastdate = os.path.join(new_folder_path, "stlast_daily_indicator{}.csv".format(folder_name))
+        # hourly_indicator_lastdate = os.path.join(new_folder_path, "stlast_hourly_indicator{}.csv".format(folder_name))
 
         check = all(os.path.exists(filename) for filename in [daily_indicator_filename, hourly_indicator_filename, daily_indicator_lastdate,hourly_indicator_lastdate ])
         if not check:

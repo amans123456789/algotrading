@@ -12,18 +12,18 @@ import logging
 app = FastAPI()
 
 folder_name = "news_data"
-csv_prefix = "data"
+csv_prefix = "news-dwnld-data"
 
 ner_folder = "ner_data"
-ner_csv_prefix = "data"
+ner_csv_prefix = "news-ner-data"
 
 sentiment_folder = "sentiment_data"
-sentiment_csv_prefix = "data"
+sentiment_csv_prefix = "news-sentiment-data"
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def read_latest_csv(folder_name="news_data", csv_prefix="data"):
+def read_latest_csv(folder_name, csv_prefix):
 
     files = [file for file in os.listdir(folder_name) if file.startswith(csv_prefix) and file.endswith(".csv")]
     if files:
@@ -82,6 +82,7 @@ async def stock_news_service():
     news_download_analysis(df, "download", folder_name, csv_prefix)
 
     df = read_latest_csv(folder_name, csv_prefix)
+    # print(df)
 
     news_download_analysis(df, "ner", ner_folder, ner_csv_prefix)
 

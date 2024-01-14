@@ -1,5 +1,6 @@
 venv/
-ner_data/
-news_data/
-sentiment_data/
+collective_news_data/
+collective_news_data/ner_data/
+collective_news_data/news_data/
+collective_news_data/sentiment_data/
 *.pyc

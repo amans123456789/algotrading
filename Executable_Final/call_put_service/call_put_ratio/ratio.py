@@ -44,12 +44,12 @@ def group_and_sum(df, dt):
     grouped_df['OI Call Put Ratio'] = grouped_df['OI'] / grouped_df['OI.1']
     grouped_df['Volume Call Put Ratio'] = grouped_df['Volume'] / grouped_df['Volume.1']
 
-    ratio_folder = os.path.join("call_put_data", "ratio")
+    ratio_folder = os.path.join("call_put_data", "call_put_ratio")
     if not os.path.exists(ratio_folder):
         os.makedirs(ratio_folder)
 
     # Form the filename for the ratio CSV
-    ratio_filename = f"ratio{dt}.csv"
+    ratio_filename = f"call_put_ratio_{dt}.csv"
     ratio_filepath = os.path.join(ratio_folder, ratio_filename)
 
     # Save the grouped DataFrame to a CSV file if it doesn't exist

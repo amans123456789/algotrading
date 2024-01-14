@@ -17,9 +17,11 @@ def strength_trend_func(end_date, n, n_daily):
         new_folder_path = os.path.join(base_folder, folder_name)
         os.makedirs(new_folder_path, exist_ok=True)
 
-        daily_strength_filename = os.path.join(new_folder_path, "daily_trend_strength{}.csv".format(folder_name))
-        hourly_strength_filename = os.path.join(new_folder_path, "hourly_trend_strength{}.csv".format(folder_name))
+        # daily_strength_filename = os.path.join(new_folder_path, "daily_trend_strength{}.csv".format(folder_name))
+        # hourly_strength_filename = os.path.join(new_folder_path, "hourly_trend_strength{}.csv".format(folder_name))
 
+        daily_strength_filename = os.path.join(new_folder_path, "daily_market_condition_{}.csv".format(folder_name))
+        hourly_strength_filename = os.path.join(new_folder_path, "hourly_market_condition_{}.csv".format(folder_name))
 
         check = all(os.path.exists(filename) for filename in [daily_strength_filename, hourly_strength_filename ])
         if not check:

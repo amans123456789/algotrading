@@ -16,13 +16,13 @@ def fin_cal(year):
     pnl = pd.read_csv("starting_data/annual_data/pnl.csv")
     try:
         # folder_name = (year).strftime('%Y')
-        folder_name = year
+        folder_name = "20" + year
 
         base_folder = 'starting_data/results'
         new_folder_path = os.path.join(base_folder, folder_name)
         os.makedirs(new_folder_path, exist_ok=True)
 
-        fundamental_analysis_folder = os.path.join(new_folder_path, "fin_analysis{}.csv".format(folder_name))
+        fundamental_analysis_folder = os.path.join(new_folder_path, "fundamental_analysis_{}.csv".format(folder_name))
 
         check = all(os.path.exists(filename) for filename in [fundamental_analysis_folder])
 
