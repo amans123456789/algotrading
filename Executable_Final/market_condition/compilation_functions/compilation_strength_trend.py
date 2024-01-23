@@ -8,7 +8,7 @@ import strength_indicator.strength_calculation as sc
 
 logging.basicConfig(level=logging.INFO)
 
-def strength_trend_func(end_date, n, n_daily):
+def strength_trend_func( mkt_symb, end_date, n, n_daily):
     try:
 
         folder_name = end_date.strftime('%Y-%m-%d')
@@ -27,7 +27,7 @@ def strength_trend_func(end_date, n, n_daily):
         if not check:
             logging.info("Strength Function Started")
             #### Indicator Data
-            st_last_date_daily, st_last_date_one_min, st_daily, st_one_min = indicator_func(end_date, n, n_daily)
+            st_last_date_daily, st_last_date_one_min, st_daily, st_one_min = indicator_func(mkt_symb, end_date, n, n_daily)
 
             #### Strength Function
             logging.info("Calculating strength indicators for hourly data")

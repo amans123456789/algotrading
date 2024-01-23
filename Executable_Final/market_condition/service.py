@@ -1,7 +1,9 @@
 from config import config
 from fastapi import FastAPI, Body
-from download_functions.download import daily_data, minute_data
-from datetime import date, datetime, timedelta
+# from download_functions.download import daily_data, minute_data
+from download_functions.download import daily_minute_data
+
+from datetime import date, datetime
 import logging
 from fastapi.responses import JSONResponse
 
@@ -21,12 +23,6 @@ async def stock_download_service(
         n_daily: Annotated[Union[int, None], Body()] = 240,
         end_date: Annotated[Union[date, None], Body()] = None
 ):
-    start_date_n = end_date - timedelta(days=n)
-    start_date_n_daily = end_date - timedelta(days=n_daily)
-
-    logging.info(f"Received end_date: {end_date}")
-    logging.info(f"Received start_date for minute data: {start_date_n}")
-    logging.info(f"Received start_date for daily data: {start_date_n_daily}")
 
     # if start_date is not None and end_date is not None and start_date > end_date:
     #     error_mssg = "Start date cannot be greater than end date."
@@ -34,8 +30,14 @@ async def stock_download_service(
     #     # return {"error": "Start date cannot be greater than end date."}
     #     return JSONResponse(status_code=400, content={"error": error_mssg})
 
-    fin_min = (minute_data(config["tickers_NS"], start_date_n, end_date))
-    fin_daily = (daily_data(config["tickers_NS"], start_date_n_daily, end_date))
+    # fin_min = (minute_data(config["tickers_NS"], n, end_date))
+    # fin_daily = (daily_data(config["tickers_NS"], n_daily, end_date))
+
+    fin_min = (daily_minute_data(config["tickers_NS"],"daily",n, end_date))
+    fin_daily = (daily_minute_data(config["tickers_NS"], "minute",n_daily, end_date))
+
+    # fin_min = (minute_data(config["tickers_NS"], start_date_n, end_date))
+    # fin_daily = (daily_data(config["tickers_NS"], start_date_n_daily, end_date))
 
     if fin_min is None:
         error_mssg = "Download failed for minute data. Exiting the loop."
@@ -61,7 +63,7 @@ async def stock_indicator_service(
 ):
     end_date = end_date or datetime.now()
     logging.info(f"Received end_date: {end_date}")
-    indicator_func(end_date, n, n_daily)
+    indicator_func( config["tickers_NS"], end_date, n, n_daily)
     # indicator_func(end_date)
 
 
@@ -73,7 +75,7 @@ async def stock_trend_strength_service(
 ):
     end_date = end_date or datetime.now()
     logging.info(f"Received end_date: {end_date}")
-    strength_trend_func(end_date, n, n_daily)
+    strength_trend_func(config["tickers_NS"], end_date, n, n_daily)
 
 
 @app.get("/health")

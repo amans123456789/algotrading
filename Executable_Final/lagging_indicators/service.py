@@ -21,8 +21,8 @@ from fastapi.responses import JSONResponse
 # async def stock_download_service():
 async def stock_performance_service(
     end_date: Annotated[Union[date, None], Body()] = None,
-    n: Annotated[Union[int, None], Body()] = 5,
-    n_daily: Annotated[Union[int, None], Body()] = 30,
+    n: Annotated[Union[int, None], Body()] = 2,
+    n_daily: Annotated[Union[int, None], Body()] = 240,
 ):
     end_date = end_date or datetime.now()
     logging.info(f"Received end_date: {end_date}")
@@ -49,8 +49,8 @@ async def stock_performance_service(
 @app.post("/indicator_function")
 async def stock_indicator_service(
     end_date: Annotated[Union[date, None], Body()] = None,
-    n: Annotated[Union[int, None], Body()] = 5,
-    n_daily: Annotated[Union[int, None], Body()] = 30,
+    n: Annotated[Union[int, None], Body()] = 2,
+    n_daily: Annotated[Union[int, None], Body()] = 240,
 ):
     end_date = end_date or datetime.now()
     logging.info(f"Received end_date: {end_date}")
@@ -60,8 +60,8 @@ async def stock_indicator_service(
 @app.post("/trend_strength_function")
 async def stock_trend_strength_service(
     end_date: Annotated[Union[date, None], Body()] = None,
-    n: Annotated[Union[int, None], Body()] = 5,
-    n_daily: Annotated[Union[int, None], Body()] = 30,
+    n: Annotated[Union[int, None], Body()] = 2,
+    n_daily: Annotated[Union[int, None], Body()] = 240,
 ):
     end_date = end_date or datetime.now()
     logging.info(f"Received end_date: {end_date}")

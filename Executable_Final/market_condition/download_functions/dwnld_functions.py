@@ -6,6 +6,7 @@ logging.basicConfig(level=logging.INFO)
 
 
 def market_data(symbl,frequency,start_time, end_time):
+    print("market data function start date is : {} and end date is : {}".format(start_time, end_time))
     try:
         if frequency == "daily":
             data_daily = yf.download(symbl, start=start_time, end=end_time)

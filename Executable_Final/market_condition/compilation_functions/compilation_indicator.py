@@ -1,13 +1,15 @@
 import logging
 import os
 import pandas as pd
+# from download_functions.download import daily_data, minute_data
+from download_functions.download import daily_minute_data
 
 import indicators.stock_indicator_calculation as sic
 
 logging.basicConfig(level=logging.INFO)
 
 
-def indicator_func(end_date, n, n_daily):
+def indicator_func(mkt_symb, end_date, n, n_daily):
 # def indicator_func(end_date):
     try:
 
@@ -17,11 +19,11 @@ def indicator_func(end_date, n, n_daily):
         new_folder_path = os.path.join(base_folder, folder_name)
         os.makedirs(new_folder_path, exist_ok=True)
 
-        daily_indicator_filename = os.path.join(new_folder_path, "daily_indicator{}.csv".format(folder_name))
-        hourly_indicator_filename = os.path.join(new_folder_path, "hourly_indicator{}.csv".format(folder_name))
+        daily_indicator_filename = os.path.join(new_folder_path, "daily_indicator_{}.csv".format(folder_name))
+        hourly_indicator_filename = os.path.join(new_folder_path, "hourly_indicator_{}.csv".format(folder_name))
 
-        daily_indicator_lastdate = os.path.join(new_folder_path, "last_day_fibonacci_market_indicator{}.csv".format(folder_name))
-        hourly_indicator_lastdate = os.path.join(new_folder_path, "last_hour_fibonacci_market_indicator{}.csv".format(folder_name))
+        daily_indicator_lastdate = os.path.join(new_folder_path, "last_day_fibonacci_market_indicator_{}.csv".format(folder_name))
+        hourly_indicator_lastdate = os.path.join(new_folder_path, "last_hour_fibonacci_market_indicator_{}.csv".format(folder_name))
 
         # daily_indicator_lastdate = os.path.join(new_folder_path, "stlast_daily_indicator{}.csv".format(folder_name))
         # hourly_indicator_lastdate = os.path.join(new_folder_path, "stlast_hourly_indicator{}.csv".format(folder_name))
@@ -30,14 +32,19 @@ def indicator_func(end_date, n, n_daily):
         if not check:
             logging.info("Indicator Function Started")
 
-            logging.info("Reading data from the latest date folder")
-            daily_data, hourly_data = read_data_from_latest_date("market_data/final_download")
+            # logging.info("Reading data from the latest date folder")
+            # day_data, hourly_data = read_data_from_latest_date("market_data/final_download")
 
-            if daily_data is None or hourly_data is None:
+            # day_data = daily_data(mkt_symb,n_daily, end_date)
+            # hourly_data = minute_data(mkt_symb,n, end_date)
+            day_data = daily_minute_data(mkt_symb, "daily", n, n_daily, end_date)
+            hourly_data = daily_minute_data(mkt_symb, "minute", n, n_daily, end_date)
+
+            if day_data is None or hourly_data is None:
                 return None, None, None, None  # Return or handle appropriately
             #### Indicator Data
             logging.info("Calculating indicators for daily data")
-            st_daily = sic.trend_calculation(daily_data)
+            st_daily = sic.trend_calculation(day_data)
             logging.info("Calculating  indicators for hourly data")
             st_one_min = sic.trend_calculation(hourly_data)
 
@@ -45,7 +52,7 @@ def indicator_func(end_date, n, n_daily):
             st_last_date_one_min = sic.time_series_last_date(st_one_min)
 
             # hourly_data.to_csv(hourly_filename, index=False, mode='w')
-            # daily_data.to_csv(daily_filename, index=False, mode='w')
+            # day_data.to_csv(daily_filename, index=False, mode='w')
 
             logging.info("Writing last date of time series for daily data to CSV file")
             st_last_date_daily.to_csv(daily_indicator_lastdate, index=False, mode='w')
@@ -95,6 +102,6 @@ def read_data_from_latest_date(directory):
         logging.info("CSV files for the latest date not found. Please run file downloads first.")
         return None, None
 
-    daily_data = pd.read_csv(daily_csv)
+    day_data = pd.read_csv(daily_csv)
     hourly_data = pd.read_csv(hourly_csv)
-    return daily_data, hourly_data
+    return day_data, hourly_data

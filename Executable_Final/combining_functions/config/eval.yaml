@@ -1,188 +1,188 @@
 keyword_mapping :
-    "ABB.NS": [r"\bABB\b", r"\bABB India", "Asea Brown Boveri"] ,
-    "ACC.NS": [r"\bACC\b", "Associated Cement CompaniesAssociated Cement Companies"] ,
-    "AUBANK.NS": ["AU Small Finance"] ,
-    "AARTIIND.NS": ["Aarti", "Aarti Industries"] ,
-    "ABBOTINDIA.NS": ["Abbott", "Abbot India"] ,
-    "ADANIENT.NS": [ "Adani Enterprise"],
-    "ADANIPORTS.NS" : ["Adani Port"],
-    "ABCAPITAL.NS" : ["AB Capital", "Aditya Birla Capital"] ,
-    "ABFRL.NS" : ["Aditya Birla Fashion"],
-    "ALKEM.NS" : ["Alkem Lab", "Alkem Laboratory", "Alkem Laboratories"],
-    "AMBUJACEM.NS" : ["Ambuja Cement"],
-    "APOLLOHOSP.NS" : ["Apollo Hospital"],
-    "APOLLOTYRE.NS" : ["Apollo Tyre"],
-    "ASHOKLEY.NS" : ["Ashok Leyland"],
-    "ASIANPAINT.NS" : ["Asian Paint"] ,
-    "ASTRAL.NS" :["Astral", "Atral Limited"] ,
-    "ATUL.NS" : ["Atul Limited", "Atul"] ,
-    "AUROPHARMA.NS" : ["Aurobindo", "Aurobindo Pharma"] ,
-    "AXISBANK.NS" : ["Axis Bank"],
-    "BAJAJ-AUTO.NS" :["Bajaj Auto"] ,
-    "BAJFINANCE.NS" :["Bajaj Finance"] ,
-    "BAJAJFINSV.NS" :["Bajaj Finserv"] ,
-    "BALKRISIND.NS" : ["Balkrishna Industries"],
-    "BALRAMCHIN.NS" :["Balrampur Chini"] ,
-    "BANDHANBNK.NS" :[" Bandhan Bank"] ,
-    "BANKBARODA.NS" :["Bank of Baroda", "Baroda Bank"] ,
-    "BATAINDIA.NS":["Bata India"] ,
-    "BERGEPAINT.NS" :["Berger Paint"] ,
-    "BEL.NS" :["Bharat Electronic", "Bharat Electronics Limited", "Bharat Electronics Ltd"] ,
-    "BHARATFORG.NS" :["Bharat Forge"] ,
-    "BHEL.NS" :["Bharat Heavy", "Bharat Heavy Electrical"] ,
-    "BPCL.NS" : ["Bharat Petroleum"],
-    "BHARTIARTL.NS" :["Bharti Airtel", "Airtel"] ,
-    "BIOCON.NS" : ["Biocon"],
-    "BSOFT.NS": ["Birla Soft", "BirlaSoft", "KPIT", "Cummins", "Kirtaney Pandit"],
-    "BOSCHLTD.NS" :["Bosch Limited", "Bosch"] ,
-    "BRITANNIA.NS": ["Britannia Industries", "Britannia"],
-    "CANFINHOME.NS" :["Can Fin", "CanFin"],
-    "CANBK.NS" :["Canara"] ,
-    "CHAMBLFERT.NS" : ["Chambal", "Chambal Fertili"],
-    "CHOLAFIN.NS" :["Cholamandalam"] ,
-    "CIPLA.NS":["Cipla"] ,
-    "CUB.NS":["City Union" , "CityUnion"] ,
-    "COALINDIA.NS":["Coal India", "CoalIndia"] ,
-    "COFORGE.NS":["Coforge", "Co Forge"] ,
-    "COLPAL.NS":["Colgate-Palmolive", "ColPal", "ColgatePalmolive", "Colgate Palmolive"] ,
-    "CONCOR.NS":["Concor", "Container Corporation"] ,
-    "COROMANDEL.NS":["COROMANDEL", "COROMANDEL International"] ,
-    "CROMPTON.NS" :["CROMPTON"] ,
-    "CUMMINSIND.NS" :["Cummins"] ,
-    "DLF.NS":[r"\bDLF\b", "Delhi Land & Finance"],
-    "DABUR.NS":["DABUR"] ,
-    "DALBHARAT.NS":["Dalmia", "DalmiaBharat"] ,
-    "DEEPAKNTR.NS":["DeepakNitrite", "Deepak Nitrite"],
-    "DELTACORP.NS":["DeltaCorp", "Delta Corp"],
-    "DIVISLAB.NS":["divi's lab", "divi lab", "divilab","DIVISLAB"],
-    "DIXON.NS":["Dixon"],
-    "LALPATHLAB.NS":["DR LAL PATHLABS", "DRLALPATHLABS", "LALPATHLABS", "LAL PATHLABS", "lal path", "lal lab","lalpath","lallab"],
-    "DRREDDY.NS": ["dr reddy", "drreddy"],
-    "EICHERMOT.NS":["eicher", "eicher mot","eichermot"],
-    "ESCORTS.NS":["escorts", "escortkubota", "kubota"],
-    "EXIDEIND.NS":["exide","exideind"],
-    "FEDERALBNK.NS":["federal bank", "FEDERALBNK"],
-    "GAIL.NS":[r"\bgail\b","Gas Authority Of India", "GasAuthorityOfIndia", "Gas Authority India"],
-    "GMRINFRA.NS":["GMRAirport", "GMR"],
-    "GLENMARK.NS":["Glenmark"],
-    "GODREJCP.NS":["GodrejCon","Godrej Con"],
-    "GODREJPROP.NS" :["Godrejprop", "Godrej Prop"],
-    "GRANULES.NS":["granulesindia", "granules india"],
-    "GRASIM.NS" :["grasim ind", "grasim", "grasimind"],
-    "GUJGASLTD.NS" :["gujarat gas", "gujaratgas"],
-    "GNFC.NS":["gnfc", "Gujarat Narmada Valley Fertilizer", "Gujarat Narmada Valley Fertilizer"],
-    "HCLTECH.NS": ["HCL", "Hcl tech", "hcltech", "Hindustan Computer", "HindustanComputer"],
-    "HDFCAMC.NS":["hdfc asset", "hdfcasset"],
-    "HDFCBANK.NS":["hdfc bank", "hdfcbank", "Housing Development Finance","HousingDevelopmentFinance"],
-    "HDFCLIFE.NS":["hdfc life", "hdfclife"],
-    "HAVELLS.NS":["havells","havellsindia"],
-    "HEROMOTOCO.NS":["HEROMOTO", "hero moto"],
-    "HINDALCO.NS":["hindalco", "Hindustan Aluminium", "HindustanAluminium"],
-    "HAL.NS":["Hindustan Aero", "HindustanAero"],
-    "HINDCOPPER.NS":["HINDCOPPER", "HIND COPPER", "Hindustan Copper", "HindustanCopper"],
-    "HINDPETRO.NS":["HINDPETRO", "HIND PETRO", "Hindustan Petro",  "HindustanPetro"],
-    "HINDUNILVR.NS":["HINDUNILVR", "HIND UNILVR", "hindustan uni", "hindustanuni"],
-    "ICICIBANK.NS":["icici bank", "icicibank"],
-    "ICICIGI.NS":["icici lombard", "icicilombard"],
-    "ICICIPRULI.NS":["icici prudential", "icici pru", "icicipru"],
-    "IDFCFIRSTB.NS":["idfc first", "idfc bank"],
-    "IDFC.NS":["idfc", "Infrastructure Development Finance"],
-    "ITC.NS":["Imperial Tobacco Company", r"\bitc\b"],
-    "INDIACEM.NS":["india cement","indiacem"],
-    "IBULHSGFIN.NS":["Indiabulls", "Indiabulls Housing", "IndiabullsHousing"],
-    "INDIAMART.NS":["indiamart", "intermesh"],
-    "IEX.NS":[r"\biex\b", "Indian Energy Exchange", "IndianEnergyExchange"],
-    "INDHOTEL.NS": ["Indian Hotel", "IndianHotel"],
-    "IOC.NS":["indian oil", "indianoil"],
-    "IRCTC.NS":["irctc", "Indian Railway Catering", "IndianRailwayCatering"],
-    "IGL.NS":["Indraprastha Gas", "IndraprasthaGas"],
-    "INDUSTOWER.NS":["INDUS TOWER", "INDUSTOWER"],
-    "INDUSINDBK.NS":["IndusInd", "IndusInd bank", "IndusIndbank"],
-    "NAUKRI.NS":["infoedge","info edge", "naukri"],
-    "INFY.NS":["infosys"],
-    "INDIGO.NS":["interglobe aviation", "interglobeaviation"],
-    "IPCALAB.NS":["ipca lab","ipcalab"],
-    "JKCEMENT.NS":["JKCEMENT","j k cement", "jk cement"],
-    "JSWSTEEL.NS":["jswsteel", "jsw steel", "j s w steel"],
-    "JINDALSTEL.NS":["jindal steel", "jindalsteel"],
-    "JUBLFOOD.NS":["Jubilant FoodWork", "JubilantFoodWork"],
-    "KOTAKBANK.NS":["kotak bank", "kotak mahindra", "kotakbank", "kotakmahindra"],
-    "L&TFH.NS":["L&T Finance", "L&TFinance"],
-    "LTTS.NS":["L&T Tech","L&TTech"],
-    "LICHSGFIN.NS":["LIC Housing","LICHousing"],
-    "LTIM.NS":["LTIMindtree", "LTI Mindtree"],
-    "LT.NS":["Larsen & Toubro", "Larsen&Toubro"],
-    "LAURUSLABS.NS":["Lauruslab","Laurus lab"],
-    "LUPIN.NS":["lupin"],
-    "MRF.NS":[r"\bMRF\b","M.R.F", "Madras Rubber Factory", "MadrasRubberFactory"],
-    "MGL.NS":["Mahanagar Gas", "MahanagarGas"],
-    "M&MFIN.NS":["M&MFIN", "Mahindra & Mahindra Fin", "Mahindra Fin", "MahindraFin"],
-    "M&M.NS":["Mahindra & Mahindra", r"\bm&m\b", "Mahindra&Mahindra"],
-    "MANAPPURAM.NS":["Manappuram", "Manappuram Fin"],
-    "MARICO.NS":["marico"],
-    "MARUTI.NS":["maruti", "suzuki"],
-    "MFSL.NS":["MaxFin", "Max Fin"],
-    "METROPOLIS.NS":["metropolis health", "meropolishealth"],
-    "MPHASIS.NS":[r"\bMphasis\b"],
-    "MCX.NS":["multicommodityexchange", "multi commodity exchange"],
-    "MUTHOOTFIN.NS":["Muthoot Fin", "MuthootFin"],
-    "NMDC.NS":[r"\bNMDC\b", "National Mineral Development","NationalMineral"],
-    "NTPC.NS":[r"\bNTPC\b", "National thermal"],
-    "NATIONALUM.NS":["national aluminium", "nationalaluminium"],
-    "NAVINFLUOR.NS":["Navin Fluorine", "NavinFluorine"],
-    "NESTLEIND.NS":["Nestle India", "NestleIndia"],
-    "OBEROIRLTY.NS":["Oberoi Realty", "OberoiRealty"],
-    "ONGC.NS":[r"\bongc\b","Oil and Natural Gas"],
-    "OFSS.NS":["Oracle Financial Service"],
-    "PIIND.NS":["PI Ind"],
-    "PVRINOX.NS":[r"\bpvr\b", "Priya Village Road", "Priya Vill","PriyaVill"],
-    "PAGEIND.NS":["Page Industr", "PageIndustr"],
-    "PERSISTENT.NS":["Persistent System", "PersistentSystem"],
-    "PETRONET.NS":["Petronet","Petronet LNG", "PetronetLNG"],
-    "PIDILITIND.NS":["Pidilite Ind", "Pidilite"],
-    "PEL.NS":["Piramal"],
-    "POLYCAB.NS":["Polycab"],
-    "PFC.NS":["Power Finance","PowerFin"],
-    "POWERGRID.NS":["Power Grid","PowerGrid"],
-    "PNB.NS":["pnb","Punjab National Bank"],
-    "RBLBANK.NS":["RBL BANK", "RBLBANK"],
-    "RECLTD.NS":["Rural Electrification Corporation", "Rural Electrification Corp", "RuralElectrificationCorp"],
-    "RELIANCE.NS":[r"\bRIL\b", "RELIANCE IND"],
-    "SBICARD.NS":["SBICARD", "SBI CARD"],
-    "SBILIFE.NS":["SBI Life", "SBILIFE"],
-    "SRF.NS":[r"\bSRF\b"],
-    "MOTHERSON.NS":["Samvardhana", "Motherson"],
-    "SHREECEM.NS":["ShreeCem", "SHREE CEM"],
-    "SHRIRAMFIN.NS":["Shriram Fin"],
-    "SIEMENS.NS":["Siemen"],
-    "SBIN.NS":[r"\bsbi\b", "State Bank Of India"],
-    "SAIL.NS":["Steel Authority of India Ltd", "sail"],
-    "SUNPHARMA.NS":["Sun Pharma","SunPharma"],
-    "SUNTV.NS":["Sun TV", "SunTV"],
-    "SYNGENE.NS":["SYNGENE"],
-    "TVSMOTOR.NS":[r"\bTVS\b", "Thirukkurungudi Vengaram Sundram"],
-    "TATACHEM.NS":["TATA Chem", "TATAChem"],
-    "TATACOMM.NS":["Tata Comm", "TataComm"],
-    "TCS.NS":["TCS","Tata Consultancy","TataConsultancy"],
-    "TATACONSUM.NS":["Tata Consumer","TataConsumer"],
-    "TATAMOTORS.NS":["Tata Motor","TataMotor"],
-    "TATAPOWER.NS":["Tata Power", "TataPower"],
-    "TATASTEEL.NS":["Tata Steel", "TataSteel"],
-    "TECHM.NS":["Tech Mahindra","TechMahindra"],
-    "RAMCOCEM.NS":["ramcocem","ramco cem"],
-    "TITAN.NS":["titan"],
-    "TORNTPHARM.NS":["torrent pharma", "torrentpharma","TORNTPHARM"],
-    "TRENT.NS":["trent"],
-    "UPL.NS":[r"\bUPL\b", "United Phosphorus", "UnitedPhosphorus"],
-    "ULTRACEMCO.NS":["UltraTech"],
-    "UBL.NS":["United Brewer", r"\bubl\b"],
-    "MCDOWELL-N.NS":["MCDOWELL", "united spirit", "unitedspirit"],
-    "VEDL.NS":["Vedanta"],
-    "IDEA.NS":["idea", "Vodafone Idea"],
-    "VOLTAS.NS":["VOLTAS"],
-    "WIPRO.NS":["wipro"],
-    "ZEEL.NS":["Zee Entertainment", "ZeeEntertainment"],
-    "ZYDUSLIFE.NS":["zydus"]
+    "ABB.NS" : [r"\bABB\b", r"\bABB India", "Asea Brown Boveri"]
+    "ACC.NS" : [r"\bACC\b", "Associated Cement CompaniesAssociated Cement Companies"]
+    "AUBANK.NS" : ["AU Small Finance"]
+    "AARTIIND.NS" : ["Aarti", "Aarti Industries"]
+    "ABBOTINDIA.NS" : ["Abbott", "Abbot India"]
+    "ADANIENT.NS" : [ "Adani Enterprise"]
+    "ADANIPORTS.NS" : ["Adani Port"]
+    "ABCAPITAL.NS" : ["AB Capital", "Aditya Birla Capital"]
+    "ABFRL.NS" : ["Aditya Birla Fashion"]
+    "ALKEM.NS" : ["Alkem Lab", "Alkem Laboratory", "Alkem Laboratories"]
+    "AMBUJACEM.NS" : ["Ambuja Cement"]
+    "APOLLOHOSP.NS" : ["Apollo Hospital"]
+    "APOLLOTYRE.NS" : ["Apollo Tyre"]
+    "ASHOKLEY.NS" : ["Ashok Leyland"]
+    "ASIANPAINT.NS" : ["Asian Paint"]
+    "ASTRAL.NS" : ["Astral", "Atral Limited"]
+    "ATUL.NS" : ["Atul Limited", "Atul"]
+    "AUROPHARMA.NS" : ["Aurobindo", "Aurobindo Pharma"]
+    "AXISBANK.NS" : ["Axis Bank"]
+    "BAJAJ-AUTO.NS" : ["Bajaj Auto"]
+    "BAJFINANCE.NS" : ["Bajaj Finance"]
+    "BAJAJFINSV.NS" : ["Bajaj Finserv"]
+    "BALKRISIND.NS" : ["Balkrishna Industries"]
+    "BALRAMCHIN.NS" : ["Balrampur Chini"]
+    "BANDHANBNK.NS" : [" Bandhan Bank"]
+    "BANKBARODA.NS" : ["Bank of Baroda", "Baroda Bank"]
+    "BATAINDIA.NS": ["Bata India"]
+    "BERGEPAINT.NS" : ["Berger Paint"]
+    "BEL.NS" : ["Bharat Electronic", "Bharat Electronics Limited", "Bharat Electronics Ltd"]
+    "BHARATFORG.NS" : ["Bharat Forge"]
+    "BHEL.NS" : ["Bharat Heavy", "Bharat Heavy Electrical"]
+    "BPCL.NS" : ["Bharat Petroleum"]
+    "BHARTIARTL.NS" : ["Bharti Airtel", "Airtel"]
+    "BIOCON.NS" : ["Biocon"]
+    "BSOFT.NS": ["Birla Soft", "BirlaSoft", "KPIT", "Cummins", "Kirtaney Pandit"]
+    "BOSCHLTD.NS" : ["Bosch Limited", "Bosch"]
+    "BRITANNIA.NS": ["Britannia Industries", "Britannia"]
+    "CANFINHOME.NS" : ["Can Fin", "CanFin"]
+    "CANBK.NS" : ["Canara"]
+    "CHAMBLFERT.NS" : ["Chambal", "Chambal Fertili"]
+    "CHOLAFIN.NS" : ["Cholamandalam"]
+    "CIPLA.NS" : ["Cipla"]
+    "CUB.NS" : ["City Union" , "CityUnion"]
+    "COALINDIA.NS" : ["Coal India", "CoalIndia"]
+    "COFORGE.NS" : ["Coforge", "Co Forge"]
+    "COLPAL.NS" : ["Colgate-Palmolive", "ColPal", "ColgatePalmolive", "Colgate Palmolive"]
+    "CONCOR.NS" : ["Concor", "Container Corporation"]
+    "COROMANDEL.NS" : ["COROMANDEL", "COROMANDEL International"]
+    "CROMPTON.NS" : ["CROMPTON"]
+    "CUMMINSIND.NS" : ["Cummins"]
+    "DLF.NS" : [r"\bDLF\b", "Delhi Land & Finance"]
+    "DABUR.NS" : ["DABUR"]
+    "DALBHARAT.NS" : ["Dalmia", "DalmiaBharat"]
+    "DEEPAKNTR.NS" : ["DeepakNitrite", "Deepak Nitrite"]
+    "DELTACORP.NS" : ["DeltaCorp", "Delta Corp"]
+    "DIVISLAB.NS" : ["divi's lab", "divi lab", "divilab","DIVISLAB"]
+    "DIXON.NS" : ["Dixon"]
+    "LALPATHLAB.NS" : ["DR LAL PATHLABS", "DRLALPATHLABS", "LALPATHLABS", "LAL PATHLABS", "lal path", "lal lab","lalpath","lallab"]
+    "DRREDDY.NS" : ["dr reddy", "drreddy"]
+    "EICHERMOT.NS" : ["eicher", "eicher mot","eichermot"]
+    "ESCORTS.NS" : ["escorts", "escortkubota", "kubota"]
+    "EXIDEIND.NS" : ["exide","exideind"]
+    "FEDERALBNK.NS" : ["federal bank", "FEDERALBNK"]
+    "GAIL.NS" : [r"\bgail\b","Gas Authority Of India", "GasAuthorityOfIndia", "Gas Authority India"]
+    "GMRINFRA.NS" : ["GMRAirport", "GMR"]
+    "GLENMARK.NS" : ["Glenmark"]
+    "GODREJCP.NS" : ["GodrejCon","Godrej Con"]
+    "GODREJPROP.NS" : ["Godrejprop", "Godrej Prop"]
+    "GRANULES.NS": ["granulesindia", "granules india"]
+    "GRASIM.NS" : ["grasim ind", "grasim", "grasimind"]
+    "GUJGASLTD.NS" : ["gujarat gas", "gujaratgas"]
+    "GNFC.NS" : ["gnfc", "Gujarat Narmada Valley Fertilizer", "Gujarat Narmada Valley Fertilizer"]
+    "HCLTECH.NS" : ["HCL", "Hcl tech", "hcltech", "Hindustan Computer", "HindustanComputer"]
+    "HDFCAMC.NS" : ["hdfc asset", "hdfcasset"]
+    "HDFCBANK.NS" : ["hdfc bank", "hdfcbank", "Housing Development Finance","HousingDevelopmentFinance"]
+    "HDFCLIFE.NS" : ["hdfc life", "hdfclife"]
+    "HAVELLS.NS" : ["havells","havellsindia"]
+    "HEROMOTOCO.NS" : ["HEROMOTO", "hero moto"]
+    "HINDALCO.NS" : ["hindalco", "Hindustan Aluminium", "HindustanAluminium"]
+    "HAL.NS" : ["Hindustan Aero", "HindustanAero"]
+    "HINDCOPPER.NS" : ["HINDCOPPER", "HIND COPPER", "Hindustan Copper", "HindustanCopper"]
+    "HINDPETRO.NS" : ["HINDPETRO", "HIND PETRO", "Hindustan Petro",  "HindustanPetro"]
+    "HINDUNILVR.NS" : ["HINDUNILVR", "HIND UNILVR", "hindustan uni", "hindustanuni"]
+    "ICICIBANK.NS" : ["icici bank", "icicibank"]
+    "ICICIGI.NS" : ["icici lombard", "icicilombard"]
+    "ICICIPRULI.NS" : ["icici prudential", "icici pru", "icicipru"]
+    "IDFCFIRSTB.NS" : ["idfc first", "idfc bank"]
+    "IDFC.NS" : ["idfc", "Infrastructure Development Finance"]
+    "ITC.NS" : ["Imperial Tobacco Company", r"\bitc\b"]
+    "INDIACEM.NS" : ["india cement","indiacem"]
+    "IBULHSGFIN.NS" : ["Indiabulls", "Indiabulls Housing", "IndiabullsHousing"]
+    "INDIAMART.NS" : ["indiamart", "intermesh"]
+    "IEX.NS" : [r"\biex\b", "Indian Energy Exchange", "IndianEnergyExchange"]
+    "INDHOTEL.NS" : ["Indian Hotel", "IndianHotel"]
+    "IOC.NS" : ["indian oil", "indianoil"]
+    "IRCTC.NS" : ["irctc", "Indian Railway Catering", "IndianRailwayCatering"]
+    "IGL.NS" : ["Indraprastha Gas", "IndraprasthaGas"]
+    "INDUSTOWER.NS" : ["INDUS TOWER", "INDUSTOWER"]
+    "INDUSINDBK.NS" : ["IndusInd", "IndusInd bank", "IndusIndbank"]
+    "NAUKRI.NS" : ["infoedge","info edge", "naukri"]
+    "INFY.NS" : ["infosys"]
+    "INDIGO.NS" : ["interglobe aviation", "interglobeaviation"]
+    "IPCALAB.NS" : ["ipca lab","ipcalab"]
+    "JKCEMENT.NS" : ["JKCEMENT","j k cement", "jk cement"]
+    "JSWSTEEL.NS" : ["jswsteel", "jsw steel", "j s w steel"]
+    "JINDALSTEL.NS" : ["jindal steel", "jindalsteel"]
+    "JUBLFOOD.NS" : ["Jubilant FoodWork", "JubilantFoodWork"]
+    "KOTAKBANK.NS" : ["kotak bank", "kotak mahindra", "kotakbank", "kotakmahindra"]
+    "L&TFH.NS" : ["L&T Finance", "L&TFinance"]
+    "LTTS.NS" : ["L&T Tech","L&TTech"]
+    "LICHSGFIN.NS" : ["LIC Housing","LICHousing"]
+    "LTIM.NS" : ["LTIMindtree", "LTI Mindtree"]
+    "LT.NS" : ["Larsen & Toubro", "Larsen&Toubro"]
+    "LAURUSLABS.NS" : ["Lauruslab","Laurus lab"]
+    "LUPIN.NS" : ["lupin"]
+    "MRF.NS" : [r"\bMRF\b","M.R.F", "Madras Rubber Factory", "MadrasRubberFactory"]
+    "MGL.NS" : ["Mahanagar Gas", "MahanagarGas"]
+    "M&MFIN.NS" : ["M&MFIN", "Mahindra & Mahindra Fin", "Mahindra Fin", "MahindraFin"]
+    "M&M.NS" : ["Mahindra & Mahindra", r"\bm&m\b", "Mahindra&Mahindra"]
+    "MANAPPURAM.NS" : ["Manappuram", "Manappuram Fin"]
+    "MARICO.NS" : ["marico"]
+    "MARUTI.NS" : ["maruti", "suzuki"]
+    "MFSL.NS" : ["MaxFin", "Max Fin"]
+    "METROPOLIS.NS" : ["metropolis health", "meropolishealth"]
+    "MPHASIS.NS" : [r"\bMphasis\b"]
+    "MCX.NS" : ["multicommodityexchange", "multi commodity exchange"]
+    "MUTHOOTFIN.NS" : ["Muthoot Fin", "MuthootFin"]
+    "NMDC.NS" : [r"\bNMDC\b", "National Mineral Development","NationalMineral"]
+    "NTPC.NS" : [r"\bNTPC\b", "National thermal"]
+    "NATIONALUM.NS" : ["national aluminium", "nationalaluminium"]
+    "NAVINFLUOR.NS" : ["Navin Fluorine", "NavinFluorine"]
+    "NESTLEIND.NS" : ["Nestle India", "NestleIndia"]
+    "OBEROIRLTY.NS" : ["Oberoi Realty", "OberoiRealty"]
+    "ONGC.NS" : [r"\bongc\b","Oil and Natural Gas"]
+    "OFSS.NS" : ["Oracle Financial Service"]
+    "PIIND.NS" : ["PI Ind"]
+    "PVRINOX.NS" : [r"\bpvr\b", "Priya Village Road", "Priya Vill","PriyaVill"]
+    "PAGEIND.NS" : ["Page Industr", "PageIndustr"]
+    "PERSISTENT.NS" : ["Persistent System", "PersistentSystem"]
+    "PETRONET.NS" : ["Petronet","Petronet LNG", "PetronetLNG"]
+    "PIDILITIND.NS" : ["Pidilite Ind", "Pidilite"]
+    "PEL.NS" : ["Piramal"]
+    "POLYCAB.NS" : ["Polycab"]
+    "PFC.NS" : ["Power Finance","PowerFin"]
+    "POWERGRID.NS" : ["Power Grid","PowerGrid"]
+    "PNB.NS" : ["pnb","Punjab National Bank"]
+    "RBLBANK.NS" : ["RBL BANK", "RBLBANK"]
+    "RECLTD.NS" : ["Rural Electrification Corporation", "Rural Electrification Corp", "RuralElectrificationCorp"]
+    "RELIANCE.NS" : [r"\bRIL\b", "RELIANCE IND"]
+    "SBICARD.NS" : ["SBICARD", "SBI CARD"]
+    "SBILIFE.NS" : ["SBI Life", "SBILIFE"]
+    "SRF.NS" : [r"\bSRF\b"]
+    "MOTHERSON.NS" : ["Samvardhana", "Motherson"]
+    "SHREECEM.NS" : ["ShreeCem", "SHREE CEM"]
+    "SHRIRAMFIN.NS" : ["Shriram Fin"]
+    "SIEMENS.NS" : ["Siemen"]
+    "SBIN.NS" : [r"\bsbi\b", "State Bank Of India"]
+    "SAIL.NS" : ["Steel Authority of India Ltd", "sail"]
+    "SUNPHARMA.NS" : ["Sun Pharma","SunPharma"]
+    "SUNTV.NS" : ["Sun TV", "SunTV"]
+    "SYNGENE.NS" : ["SYNGENE"]
+    "TVSMOTOR.NS" : [r"\bTVS\b", "Thirukkurungudi Vengaram Sundram"]
+    "TATACHEM.NS" : ["TATA Chem", "TATAChem"]
+    "TATACOMM.NS" : ["Tata Comm", "TataComm"]
+    "TCS.NS" : ["TCS","Tata Consultancy","TataConsultancy"]
+    "TATACONSUM.NS" : ["Tata Consumer","TataConsumer"]
+    "TATAMOTORS.NS" : ["Tata Motor","TataMotor"]
+    "TATAPOWER.NS" : ["Tata Power", "TataPower"]
+    "TATASTEEL.NS" : ["Tata Steel", "TataSteel"]
+    "TECHM.NS" : ["Tech Mahindra","TechMahindra"]
+    "RAMCOCEM.NS" : ["ramcocem","ramco cem"]
+    "TITAN.NS" : ["titan"]
+    "TORNTPHARM.NS" : ["torrent pharma", "torrentpharma","TORNTPHARM"]
+    "TRENT.NS" : ["trent"]
+    "UPL.NS" : [r"\bUPL\b", "United Phosphorus", "UnitedPhosphorus"]
+    "ULTRACEMCO.NS" : ["UltraTech"]
+    "UBL.NS" : ["United Brewer", r"\bubl\b"]
+    "MCDOWELL-N.NS" : ["MCDOWELL", "united spirit", "unitedspirit"]
+    "VEDL.NS" : ["Vedanta"]
+    "IDEA.NS" : ["idea", "Vodafone Idea"]
+    "VOLTAS.NS" : ["VOLTAS"]
+    "WIPRO.NS" : ["wipro"]
+    "ZEEL.NS" : ["Zee Entertainment", "ZeeEntertainment"]
+    "ZYDUSLIFE.NS" : ["zydus"]
 
 
 
